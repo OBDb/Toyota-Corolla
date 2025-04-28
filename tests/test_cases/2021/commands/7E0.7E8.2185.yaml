@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2185
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8066185008228F6
+  expected_values:
+    COROLLA_GEAR: 0
+    COROLLA_GEAR_LOCKUP: 1

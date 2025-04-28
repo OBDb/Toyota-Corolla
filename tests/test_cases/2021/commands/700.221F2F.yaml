@@ -1,0 +1,82 @@
+command_id: 700.221F2F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 70804621F2F26
+  expected_values:
+    COROLLA_FLI: 14.90196
+- response: 70804621F2F2B
+  expected_values:
+    COROLLA_FLI: 16.86275
+- response: 70804621F2F30
+  expected_values:
+    COROLLA_FLI: 18.82353
+- response: 70804621F2F32
+  expected_values:
+    COROLLA_FLI: 19.60784
+- response: 70804621F2F39
+  expected_values:
+    COROLLA_FLI: 22.35294
+- response: 70804621F2F3C
+  expected_values:
+    COROLLA_FLI: 23.52941
+- response: 70804621F2F4C
+  expected_values:
+    COROLLA_FLI: 29.80392
+- response: 70804621F2F56
+  expected_values:
+    COROLLA_FLI: 33.72549
+- response: 70804621F2F5A
+  expected_values:
+    COROLLA_FLI: 35.29412
+- response: 70804621F2F5C
+  expected_values:
+    COROLLA_FLI: 36.07843
+- response: 70804621F2F5D
+  expected_values:
+    COROLLA_FLI: 36.47059
+- response: 70804621F2F5E
+  expected_values:
+    COROLLA_FLI: 36.86275
+- response: 70804621F2F5F
+  expected_values:
+    COROLLA_FLI: 37.2549
+- response: 70804621F2F60
+  expected_values:
+    COROLLA_FLI: 37.64706
+- response: 70804621F2F61
+  expected_values:
+    COROLLA_FLI: 38.03922
+- response: 70804621F2F64
+  expected_values:
+    COROLLA_FLI: 39.21569
+- response: 70804621F2F65
+  expected_values:
+    COROLLA_FLI: 39.60784
+- response: 70804621F2F66
+  expected_values:
+    COROLLA_FLI: 40
+- response: 70804621F2F6A
+  expected_values:
+    COROLLA_FLI: 41.56863
+- response: 70804621F2F6B
+  expected_values:
+    COROLLA_FLI: 41.96078
+- response: 70804621F2F6D
+  expected_values:
+    COROLLA_FLI: 42.7451
+- response: 70804621F2F6F
+  expected_values:
+    COROLLA_FLI: 43.52941
+- response: 70804621F2F70
+  expected_values:
+    COROLLA_FLI: 43.92157
+- response: 70804621F2F72
+  expected_values:
+    COROLLA_FLI: 44.70588
+- response: 70804621F2F79
+  expected_values:
+    COROLLA_FLI: 47.45098
+- response: 70804621F2F8A
+  expected_values:
+    COROLLA_FLI: 54.11765

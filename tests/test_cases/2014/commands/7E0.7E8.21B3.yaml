@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.21B3
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7E81008618247E08254
+    7E82107B30000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 44.02734
+- response: |-
+    7E8100861827B2082BC
+    7E82107B30000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 148.02734
+- response: |-
+    7E8100861827BC082B0
+    7E82107B30000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 136.02734
+- response: |-
+    7E810086182802082B1
+    7E82107B30000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 137.02734
+- response: |-
+    7E810086182802082DB
+    7E82107B30000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 179.02734

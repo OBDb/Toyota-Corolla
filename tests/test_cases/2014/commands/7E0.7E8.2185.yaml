@@ -1,0 +1,164 @@
+command_id: 7E0.7E8.2185
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056185010000'
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+- response: 7E805618501000A
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185010010'
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185010082'
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+- response: 7E805618501008A
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+- response: 7E805618501108A
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185012082'
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185013082'
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+- response: 7E805618501A08A
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 1
+- response: '7E8056185020000'
+  expected_values:
+    COROLLA_GEAR: 2
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185020010'
+  expected_values:
+    COROLLA_GEAR: 2
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185020082'
+  expected_values:
+    COROLLA_GEAR: 2
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185022082'
+  expected_values:
+    COROLLA_GEAR: 2
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185023082'
+  expected_values:
+    COROLLA_GEAR: 2
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185030000'
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185030010'
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185030082'
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 0
+- response: 7E805618503008A
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185032082'
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185033082'
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185034010'
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185038018'
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 1
+- response: 7E805618503A08A
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 1
+- response: '7E8056185040000'
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185040010'
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185040018'
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185040082'
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 0
+- response: 7E805618504008A
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185042082'
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 0
+- response: 7E805618504208A
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185048008'
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 1
+- response: '7E8056185048018'
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 1
+- response: 7E805618504A08A
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 1
+- response: 7E805618505208A
+  expected_values:
+    COROLLA_GEAR: 5
+    COROLLA_GEAR_LOCKUP: 0
+- response: 7E805618505A08A
+  expected_values:
+    COROLLA_GEAR: 5
+    COROLLA_GEAR_LOCKUP: 1
+- response: |-
+    7E8100861823D4085E5
+    7E82107B90000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 21.25
+- response: |-
+    7E81008618251408567
+    7E82107F10000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 41.25
+- response: |-
+    7E8100861825D20851C
+    7E82107F10000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 53.125
+- response: |-
+    7E8100861825FA0855F
+    7E82108DA0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 55.625

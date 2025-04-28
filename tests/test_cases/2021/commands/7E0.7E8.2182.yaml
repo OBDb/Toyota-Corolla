@@ -1,0 +1,52 @@
+command_id: 7E0.7E8.2182
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7E8100861825B4082F9
+    7E82107CB0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 51.25
+    COROLLA_ATF_TQC_T: 90.97266
+- response: |-
+    7E8100861825BE08305
+    7E82107CB0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 51.875
+    COROLLA_ATF_TQC_T: 91.01953
+- response: |-
+    7E8100861825C8082EF
+    7E82107CB0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 52.5
+    COROLLA_ATF_TQC_T: 90.93359
+- response: |-
+    7E8100861825C8082F6
+    7E82107CB0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 52.5
+    COROLLA_ATF_TQC_T: 90.96094
+- response: |-
+    7E8100861825D2082F9
+    7E82107CB0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 53.125
+    COROLLA_ATF_TQC_T: 90.97266
+- response: |-
+    7E8100861825DC082F2
+    7E82107CB0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 53.75
+    COROLLA_ATF_TQC_T: 90.94531
+- response: |-
+    7E8100861825E608305
+    7E82107CB0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 54.375
+    COROLLA_ATF_TQC_T: 91.01953
+- response: |-
+    7E8100861825E608308
+    7E82107CB0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 54.375
+    COROLLA_ATF_TQC_T: 91.03125
