@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2186
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7E81008618237A0868C
+    7E82107B90000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 15.625
+- response: |-
+    7E810086182622086EB
+    7E82108250000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 58.125

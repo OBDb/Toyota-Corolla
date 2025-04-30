@@ -1,0 +1,89 @@
+command_id: 7E0.7E8.2180
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7E8100861823CA080FA
+    7E82107D60000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 20.625
+- response: |-
+    7E81008618241A080F7
+    7E82107FA0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 25.625
+- response: |-
+    7E810086182442080E7
+    7E82107D60000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 28.125
+- response: |-
+    7E810086182474080E6
+    7E82107E60000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 31.25
+- response: |-
+    7E810086182488080C3
+    7E82107EA0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 32.5
+- response: |-
+    7E810086182492080CB
+    7E82107E60000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 33.125
+- response: |-
+    7E8100861824CE080FD
+    7E82107EA0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 36.875
+- response: |-
+    7E8100861824F6080DA
+    7E82107E60000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 39.375
+- response: |-
+    7E81008618255A080C9
+    7E82107D60000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 45.625
+- response: |-
+    7E8100861825F0080CB
+    7E821072D0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 55
+- response: |-
+    7E8100861826B8080F8
+    7E82108160000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 67.5
+- response: |-
+    7E8100861826C2080C5
+    7E82107FA0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 68.125
+- response: |-
+    7E8100861826CC080D8
+    7E82107EA0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 68.75
+- response: |-
+    7E8100861826CC080E2
+    7E82107F10000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 68.75
+- response: |-
+    7E8100861827A808087
+    7E82107EA0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 82.5
+- response: |-
+    7E8100861827B20809A
+    7E82107CD0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 83.125
+- response: |-
+    7E8100861827B2080A6
+    7E82107E60000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 83.125
