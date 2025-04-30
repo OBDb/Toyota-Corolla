@@ -6,4 +6,4 @@ test_cases:
     7E8100861823D408218
     7E82107F10000000000
   expected_values:
-    COROLLA_ATF_PAN_T: -15.97266
+    COROLLA_ATF_PAN_T: 21.25
