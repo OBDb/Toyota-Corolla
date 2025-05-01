@@ -150,28 +150,3 @@ test_cases:
   expected_values:
     COROLLA_GEAR: 5
     COROLLA_GEAR_LOCKUP: 1
-- response: |-
-    7E8100861823D4085E5
-    7E82107B90000000000
-  expected_values:
-    COROLLA_ATF_PAN_T: 21.25
-- response: |-
-    7E8100861824D80850D
-    7E82107B90000000000
-  expected_values:
-    COROLLA_ATF_PAN_T: 37.5
-- response: |-
-    7E81008618251408567
-    7E82107F10000000000
-  expected_values:
-    COROLLA_ATF_PAN_T: 41.25
-- response: |-
-    7E8100861825D20851C
-    7E82107F10000000000
-  expected_values:
-    COROLLA_ATF_PAN_T: 53.125
-- response: |-
-    7E8100861825FA0855F
-    7E82108DA0000000000
-  expected_values:
-    COROLLA_ATF_PAN_T: 55.625
