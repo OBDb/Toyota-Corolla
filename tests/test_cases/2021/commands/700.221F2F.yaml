@@ -80,3 +80,6 @@ test_cases:
 - response: 70804621F2F8A
   expected_values:
     COROLLA_FLI: 54.11765
+- response: 70804621F2F8B
+  expected_values:
+    COROLLA_FLI: 54.5098

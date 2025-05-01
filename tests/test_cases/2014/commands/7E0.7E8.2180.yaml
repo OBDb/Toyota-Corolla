@@ -23,6 +23,11 @@ test_cases:
   expected_values:
     COROLLA_ATF_PAN_T: 31.25
 - response: |-
+    7E81008618247E080EB
+    7E82107D60000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 31.875
+- response: |-
     7E810086182488080C3
     7E82107EA0000000000
   expected_values:

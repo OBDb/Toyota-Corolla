@@ -2,7 +2,7 @@ command_id: 7E0.7E8.2182
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80461823980
+- response: '7E80461823980'
   expected_values:
     COROLLA_ATF_PAN_T: 17.5
 - response: 7E80461823A20
@@ -32,46 +32,49 @@ test_cases:
 - response: 7E80461823FC0
   expected_values:
     COROLLA_ATF_PAN_T: 23.75
-- response: 7E80461824060
+- response: '7E80461824060'
   expected_values:
     COROLLA_ATF_PAN_T: 24.375
-- response: 7E80461824100
+- response: '7E80461824100'
   expected_values:
     COROLLA_ATF_PAN_T: 25
 - response: 7E804618241A0
   expected_values:
     COROLLA_ATF_PAN_T: 25.625
-- response: 7E80461824240
+- response: '7E80461824240'
   expected_values:
     COROLLA_ATF_PAN_T: 26.25
 - response: 7E804618242E0
   expected_values:
     COROLLA_ATF_PAN_T: 26.875
-- response: 7E80461824420
+- response: '7E80461824380'
+  expected_values:
+    COROLLA_ATF_PAN_T: 27.5
+- response: '7E80461824420'
   expected_values:
     COROLLA_ATF_PAN_T: 28.125
 - response: 7E804618244C0
   expected_values:
     COROLLA_ATF_PAN_T: 28.75
-- response: 7E80461824560
+- response: '7E80461824560'
   expected_values:
     COROLLA_ATF_PAN_T: 29.375
-- response: 7E80461824600
+- response: '7E80461824600'
   expected_values:
     COROLLA_ATF_PAN_T: 30
 - response: 7E804618246A0
   expected_values:
     COROLLA_ATF_PAN_T: 30.625
-- response: 7E80461824740
+- response: '7E80461824740'
   expected_values:
     COROLLA_ATF_PAN_T: 31.25
 - response: 7E804618247E0
   expected_values:
     COROLLA_ATF_PAN_T: 31.875
-- response: 7E80461824880
+- response: '7E80461824880'
   expected_values:
     COROLLA_ATF_PAN_T: 32.5
-- response: 7E80461824920
+- response: '7E80461824920'
   expected_values:
     COROLLA_ATF_PAN_T: 33.125
 - response: 7E804618249C0
@@ -104,52 +107,52 @@ test_cases:
 - response: 7E80461824F60
   expected_values:
     COROLLA_ATF_PAN_T: 39.375
-- response: 7E80461825000
+- response: '7E80461825000'
   expected_values:
     COROLLA_ATF_PAN_T: 40
 - response: 7E804618250A0
   expected_values:
     COROLLA_ATF_PAN_T: 40.625
-- response: 7E80461825140
+- response: '7E80461825140'
   expected_values:
     COROLLA_ATF_PAN_T: 41.25
 - response: 7E804618251E0
   expected_values:
     COROLLA_ATF_PAN_T: 41.875
-- response: 7E80461825280
+- response: '7E80461825280'
   expected_values:
     COROLLA_ATF_PAN_T: 42.5
-- response: 7E80461825320
+- response: '7E80461825320'
   expected_values:
     COROLLA_ATF_PAN_T: 43.125
 - response: 7E804618253C0
   expected_values:
     COROLLA_ATF_PAN_T: 43.75
-- response: 7E80461825460
+- response: '7E80461825460'
   expected_values:
     COROLLA_ATF_PAN_T: 44.375
-- response: 7E80461825500
+- response: '7E80461825500'
   expected_values:
     COROLLA_ATF_PAN_T: 45
 - response: 7E804618255A0
   expected_values:
     COROLLA_ATF_PAN_T: 45.625
-- response: 7E80461825640
+- response: '7E80461825640'
   expected_values:
     COROLLA_ATF_PAN_T: 46.25
 - response: 7E804618256E0
   expected_values:
     COROLLA_ATF_PAN_T: 46.875
-- response: 7E80461825780
+- response: '7E80461825780'
   expected_values:
     COROLLA_ATF_PAN_T: 47.5
-- response: 7E80461825820
+- response: '7E80461825820'
   expected_values:
     COROLLA_ATF_PAN_T: 48.125
 - response: 7E804618258C0
   expected_values:
     COROLLA_ATF_PAN_T: 48.75
-- response: 7E80461825960
+- response: '7E80461825960'
   expected_values:
     COROLLA_ATF_PAN_T: 49.375
 - response: 7E80461825A00
@@ -182,49 +185,49 @@ test_cases:
 - response: 7E80461825FA0
   expected_values:
     COROLLA_ATF_PAN_T: 55.625
-- response: 7E80461826040
+- response: '7E80461826040'
   expected_values:
     COROLLA_ATF_PAN_T: 56.25
 - response: 7E804618260E0
   expected_values:
     COROLLA_ATF_PAN_T: 56.875
-- response: 7E80461826180
+- response: '7E80461826180'
   expected_values:
     COROLLA_ATF_PAN_T: 57.5
-- response: 7E80461826220
+- response: '7E80461826220'
   expected_values:
     COROLLA_ATF_PAN_T: 58.125
 - response: 7E804618262C0
   expected_values:
     COROLLA_ATF_PAN_T: 58.75
-- response: 7E80461826360
+- response: '7E80461826360'
   expected_values:
     COROLLA_ATF_PAN_T: 59.375
-- response: 7E80461826400
+- response: '7E80461826400'
   expected_values:
     COROLLA_ATF_PAN_T: 60
 - response: 7E804618264A0
   expected_values:
     COROLLA_ATF_PAN_T: 60.625
-- response: 7E80461826540
+- response: '7E80461826540'
   expected_values:
     COROLLA_ATF_PAN_T: 61.25
 - response: 7E804618265E0
   expected_values:
     COROLLA_ATF_PAN_T: 61.875
-- response: 7E80461826680
+- response: '7E80461826680'
   expected_values:
     COROLLA_ATF_PAN_T: 62.5
-- response: 7E80461826720
+- response: '7E80461826720'
   expected_values:
     COROLLA_ATF_PAN_T: 63.125
 - response: 7E804618267C0
   expected_values:
     COROLLA_ATF_PAN_T: 63.75
-- response: 7E80461826860
+- response: '7E80461826860'
   expected_values:
     COROLLA_ATF_PAN_T: 64.375
-- response: 7E80461826900
+- response: '7E80461826900'
   expected_values:
     COROLLA_ATF_PAN_T: 65
 - response: 7E804618269A0
@@ -260,49 +263,49 @@ test_cases:
 - response: 7E80461826FE0
   expected_values:
     COROLLA_ATF_PAN_T: 71.875
-- response: 7E80461827080
+- response: '7E80461827080'
   expected_values:
     COROLLA_ATF_PAN_T: 72.5
-- response: 7E80461827120
+- response: '7E80461827120'
   expected_values:
     COROLLA_ATF_PAN_T: 73.125
 - response: 7E804618271C0
   expected_values:
     COROLLA_ATF_PAN_T: 73.75
-- response: 7E80461827260
+- response: '7E80461827260'
   expected_values:
     COROLLA_ATF_PAN_T: 74.375
-- response: 7E80461827300
+- response: '7E80461827300'
   expected_values:
     COROLLA_ATF_PAN_T: 75
 - response: 7E804618273A0
   expected_values:
     COROLLA_ATF_PAN_T: 75.625
-- response: 7E80461827440
+- response: '7E80461827440'
   expected_values:
     COROLLA_ATF_PAN_T: 76.25
 - response: 7E804618274E0
   expected_values:
     COROLLA_ATF_PAN_T: 76.875
-- response: 7E80461827580
+- response: '7E80461827580'
   expected_values:
     COROLLA_ATF_PAN_T: 77.5
-- response: 7E80461827620
+- response: '7E80461827620'
   expected_values:
     COROLLA_ATF_PAN_T: 78.125
 - response: 7E804618276C0
   expected_values:
     COROLLA_ATF_PAN_T: 78.75
-- response: 7E80461827760
+- response: '7E80461827760'
   expected_values:
     COROLLA_ATF_PAN_T: 79.375
-- response: 7E80461827800
+- response: '7E80461827800'
   expected_values:
     COROLLA_ATF_PAN_T: 80
 - response: 7E804618278A0
   expected_values:
     COROLLA_ATF_PAN_T: 80.625
-- response: 7E80461827940
+- response: '7E80461827940'
   expected_values:
     COROLLA_ATF_PAN_T: 81.25
 - response: 7E804618279E0
@@ -335,11 +338,14 @@ test_cases:
 - response: 7E80461827F80
   expected_values:
     COROLLA_ATF_PAN_T: 87.5
-- response: 7E80461828020
+- response: '7E80461828020'
   expected_values:
     COROLLA_ATF_PAN_T: 88.125
+- response: 7E804618280C0
+  expected_values:
+    COROLLA_ATF_PAN_T: 88.75
 - response: |-
     7E8100861826D6082A4
     7E821078A0000000000
   expected_values:
-    COROLLA_ATF_PAN_T: 69.375
+    COROLLA_ATF_PAN_T: 124.02734

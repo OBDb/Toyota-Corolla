@@ -275,6 +275,9 @@ test_cases:
 - response: 7E80761212C00008000
   expected_values:
     COROLLA_CC_S: 0
+- response: 7E80761212C000080E0
+  expected_values:
+    COROLLA_CC_S: 0
 - response: 7E80761212D00008000
   expected_values:
     COROLLA_CC_S: 0
@@ -291,6 +294,9 @@ test_cases:
   expected_values:
     COROLLA_CC_S: 0
 - response: '7E80761213000008000'
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E807612130000080E0
   expected_values:
     COROLLA_CC_S: 0
 - response: '7E80761213100008000'
@@ -350,7 +356,13 @@ test_cases:
 - response: 7E80761213C00008000
   expected_values:
     COROLLA_CC_S: 0
+- response: 7E80761213C000080E0
+  expected_values:
+    COROLLA_CC_S: 0
 - response: 7E80761213D00008000
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E80761213D000080E0
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E80761213D3E06FC00
@@ -482,7 +494,13 @@ test_cases:
 - response: '7E80761215800008000'
   expected_values:
     COROLLA_CC_S: 0
+- response: 7E807612158000080E0
+  expected_values:
+    COROLLA_CC_S: 0
 - response: '7E80761215900008000'
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E807612159000080E0
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E80761215A00008000

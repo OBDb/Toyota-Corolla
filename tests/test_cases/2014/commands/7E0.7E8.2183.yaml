@@ -38,6 +38,21 @@ test_cases:
   expected_values:
     COROLLA_ATF_PAN_T: 23.125
 - response: |-
+    7E81008618241008319
+    7E82107B30000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 25
+- response: |-
+    7E81008618241A0836D
+    7E82107AE0000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 25.625
+- response: |-
+    7E81008618242E08308
+    7E82107960000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 26.875
+- response: |-
     7E8100861824420831A
     7E82107B90000000000
   expected_values:
@@ -58,8 +73,18 @@ test_cases:
   expected_values:
     COROLLA_ATF_PAN_T: 33.125
 - response: |-
+    7E81008618249C0836B
+    7E82108110000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 33.75
+- response: |-
     7E8100861824BA08315
     7E82107B90000000000
+  expected_values:
+    COROLLA_ATF_PAN_T: 35.625
+- response: |-
+    7E8100861824BA08397
+    7E82106CD0000000000
   expected_values:
     COROLLA_ATF_PAN_T: 35.625
 - response: |-

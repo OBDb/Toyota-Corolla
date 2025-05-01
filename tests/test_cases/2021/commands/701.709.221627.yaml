@@ -56,21 +56,39 @@ test_cases:
 - response: 709056216276CC0
   expected_values:
     COROLLA_TF1_PAN: 155.75
+- response: 709056216276D60
+  expected_values:
+    COROLLA_TF1_PAN: 156.875
 - response: '709056216276E00'
   expected_values:
     COROLLA_TF1_PAN: 158
+- response: 709056216276EA0
+  expected_values:
+    COROLLA_TF1_PAN: 159.125
 - response: 709056216276F40
   expected_values:
     COROLLA_TF1_PAN: 160.25
+- response: 709056216276FE0
+  expected_values:
+    COROLLA_TF1_PAN: 161.375
 - response: '709056216277080'
   expected_values:
     COROLLA_TF1_PAN: 162.5
+- response: '709056216277120'
+  expected_values:
+    COROLLA_TF1_PAN: 163.625
 - response: 7090562162771C0
   expected_values:
     COROLLA_TF1_PAN: 164.75
+- response: '709056216277260'
+  expected_values:
+    COROLLA_TF1_PAN: 165.875
 - response: '709056216277300'
   expected_values:
     COROLLA_TF1_PAN: 167
+- response: 7090562162773A0
+  expected_values:
+    COROLLA_TF1_PAN: 168.125
 - response: '709056216277440'
   expected_values:
     COROLLA_TF1_PAN: 169.25
