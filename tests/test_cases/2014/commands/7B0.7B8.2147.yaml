@@ -8,6 +8,9 @@ test_cases:
 - response: 7B80761470000747282
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700007D7EC5
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700007E7E98
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -18,6 +21,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700007F7FCE
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700007F7FD1
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700007F7FE2
@@ -41,10 +47,16 @@ test_cases:
 - response: 7B80761470000807FEA
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470000807FEC
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470000807FED
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470000807FF0
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470000807FF1
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470000807FF4
@@ -110,6 +122,9 @@ test_cases:
 - response: 7B8076147000080800C
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147000080800D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147000080800E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -146,7 +161,13 @@ test_cases:
 - response: 7B80761470000808021
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470000808024
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470000808028
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470000808039
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470000808044
@@ -161,6 +182,9 @@ test_cases:
 - response: 7B80761470000808051
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147000080806A
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470000808078
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -171,6 +195,12 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700008081F0
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700008092B1
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470000809426
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147000081802D
@@ -201,6 +231,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470001807FF8
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470001808007
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470001808013
@@ -236,6 +269,15 @@ test_cases:
 - response: 7B80761470003728DF0
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700037E7FAF
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700037F7FE2
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470003807FDA
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470003807FDF
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -251,10 +293,19 @@ test_cases:
 - response: 7B80761470003808005
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470003808009
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147000380800A
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147000380800F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470003808017
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470003808021
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470003808078
@@ -284,6 +335,9 @@ test_cases:
 - response: 7B8076147000580804D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700067F7FAC
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700067F7FBF
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -306,6 +360,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470009807FEC
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470009808036
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147000B808000
@@ -344,10 +401,22 @@ test_cases:
 - response: 7B807614700F5807FFE
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700F5808000
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700F5808011
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700F580801B
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700F5818070
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700F6807FFF
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700F680801C
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700F77E7F9A
@@ -357,6 +426,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700F7807FF3
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700F7807FFD
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700F7808025
@@ -374,6 +446,9 @@ test_cases:
 - response: 7B807614700F8807FFE
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700F8808001
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700F880800F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -384,6 +459,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700F9808024
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FA807FDD
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FA807FE4
@@ -413,6 +491,9 @@ test_cases:
 - response: 7B807614700FB807FDF
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FB807FED
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FB807FFD
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -422,10 +503,19 @@ test_cases:
 - response: 7B807614700FB80800E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FB80800F
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FB80801D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FB808020
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FB818098
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FB82806F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FC807F3D
@@ -470,6 +560,9 @@ test_cases:
 - response: 7B807614700FD808000
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FD808003
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FD808009
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -491,6 +584,9 @@ test_cases:
 - response: 7B807614700FD80801E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FD80804B
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FD808065
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -509,6 +605,9 @@ test_cases:
 - response: 7B807614700FE7F7FE8
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FE807CD6
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FE807F9D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -524,6 +623,9 @@ test_cases:
 - response: 7B807614700FE807FE0
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FE807FE3
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FE807FE5
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -534,6 +636,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FE807FEE
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FE807FF1
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FE807FF6
@@ -548,10 +653,16 @@ test_cases:
 - response: 7B807614700FE807FFD
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FE807FFE
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FE807FFF
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FE808000
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FE808002
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FE808003
@@ -581,6 +692,9 @@ test_cases:
 - response: 7B807614700FE80800F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FE808011
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FE808012
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -608,6 +722,9 @@ test_cases:
 - response: 7B807614700FE80803E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FE808059
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FE80805A
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -629,7 +746,13 @@ test_cases:
 - response: 7B807614700FF7E7F89
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FF7F7F8D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF7F7FD4
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FF7F7FD7
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF807844
@@ -677,7 +800,13 @@ test_cases:
 - response: 7B807614700FF807FF8
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FF807FF9
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF807FFA
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FF807FFB
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF807FFC
@@ -713,6 +842,9 @@ test_cases:
 - response: 7B807614700FF808009
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FF80800C
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF80800D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -720,6 +852,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF80800F
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FF808011
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF808013
@@ -740,6 +875,12 @@ test_cases:
 - response: 7B807614700FF808034
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FF808043
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FF808046
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF808080
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -750,6 +891,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF80813D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614700FF808177
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614700FF898447
@@ -789,6 +933,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470100808005
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470100808006
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470100808008
@@ -833,10 +980,16 @@ test_cases:
 - response: 7B80761470100808018
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470100808019
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147010080801B
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147010080801C
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010080801D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147010080801E
@@ -872,6 +1025,12 @@ test_cases:
 - response: 7B80761470100808051
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701008094AA
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010081802D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147010082806C
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -884,6 +1043,12 @@ test_cases:
 - response: 7B8076147010180800B
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010180800D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010180800E
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147010180800F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -894,6 +1059,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470101808020
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470101808024
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470101818037
@@ -917,6 +1085,12 @@ test_cases:
 - response: 7B80761470102808014
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470102808019
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470102808020
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147010281804A
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -924,6 +1098,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470103807FDC
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470103807FE4
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470103807FFD
@@ -941,7 +1118,25 @@ test_cases:
 - response: 7B8076147010380800A
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010380800D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470103808016
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010380801E
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470103808020
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010380804A
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470103818040
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701047F7FB3
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470104807FE5
@@ -959,7 +1154,16 @@ test_cases:
 - response: 7B807614701048B8594
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470105807FC1
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470105808009
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010580803D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010580803F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470106807FE1
@@ -977,10 +1181,16 @@ test_cases:
 - response: 7B807614701087E7F70
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147010A807FEC
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147010B807FD1
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147010C8180E7
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701F2808000
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614701F5807FF6
@@ -995,10 +1205,22 @@ test_cases:
 - response: 7B807614701F680800F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701F6808020
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614701F7808012
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701F780801F
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614701F8808000
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701F8808019
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701F980801E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614701FA797B5E
@@ -1034,6 +1256,12 @@ test_cases:
 - response: 7B807614701FB808032
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701FB808045
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701FB868418
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614701FC7B7BCC
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1059,6 +1287,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614701FD807FE0
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701FD807FFD
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614701FD807FFF
@@ -1139,6 +1370,9 @@ test_cases:
 - response: 7B807614701FE80802D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701FE80803C
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614701FE808059
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1196,6 +1430,9 @@ test_cases:
 - response: 7B807614701FF80806E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614701FF818025
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470200807D6C
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1212,6 +1449,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470200808002
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470200808005
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147020080800A
@@ -1274,10 +1514,28 @@ test_cases:
 - response: 7B80761470201808017
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470202807FF2
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147020280800F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470203808008
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470203808011
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470203808029
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470205818077
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614702067F7FB4
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470206808018
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147020680802D
@@ -1286,10 +1544,16 @@ test_cases:
 - response: 7B80761470207808001
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614702098080AD
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147020981804F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147020A808005
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614702F3807FAB
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614702F4807FFC
@@ -1346,6 +1610,9 @@ test_cases:
 - response: 7B807614702FD80802D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614702FD818021
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614702FD818034
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1361,6 +1628,9 @@ test_cases:
 - response: 7B807614702FE807FF9
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614702FE808004
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614702FE80800A
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1373,13 +1643,25 @@ test_cases:
 - response: 7B807614702FE80800F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614702FE808010
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614702FE80801A
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614702FE80801F
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614702FE808020
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614702FE808029
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614702FE81803B
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614702FF807F97
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614702FF807FE4
@@ -1415,6 +1697,9 @@ test_cases:
 - response: 7B807614702FF918C72
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470300808007
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470300808011
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1430,6 +1715,9 @@ test_cases:
 - response: 7B80761470300808022
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470300808025
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147030080802D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1442,16 +1730,28 @@ test_cases:
 - response: 7B80761470300818035
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470300818037
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470300818038
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147030081803A
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147030081804B
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470300838091
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147030181802D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470301818043
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470301818047
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147030380801E
@@ -1463,13 +1763,22 @@ test_cases:
 - response: 7B80761470304878435
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147030581805E
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147030680800B
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147030681805C
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703068380C3
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470307808048
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147030983810B
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703F6808041
@@ -1496,6 +1805,12 @@ test_cases:
 - response: 7B807614703FB80800D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FB80801B
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FB80802D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703FB818048
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1520,10 +1835,16 @@ test_cases:
 - response: 7B807614703FD81802A
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FD818030
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703FD818035
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703FD81803C
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FD81803D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703FD818059
@@ -1553,13 +1874,28 @@ test_cases:
 - response: 7B807614703FE808036
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FE808045
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FE80804A
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703FE80804B
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FE818032
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FE818033
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703FE818034
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703FE818038
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FE818058
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703FE81805F
@@ -1598,6 +1934,9 @@ test_cases:
 - response: 7B807614703FF80802B
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614703FF818037
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614703FF818038
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1625,16 +1964,25 @@ test_cases:
 - response: 7B80761470400828048
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147040083808B
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614704008983C1
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614704008C8D61
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470400908869
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147040180803C
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470401818035
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470401818043
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470401818046
@@ -1691,6 +2039,9 @@ test_cases:
 - response: 7B80761470500818053
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147050081805A
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470500828049
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1703,6 +2054,9 @@ test_cases:
 - response: 7B8076147050281804D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147050281805E
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614705FB828090
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1712,10 +2066,25 @@ test_cases:
 - response: 7B807614705FD828078
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614705FE81804C
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614705FE818061
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614705FE828050
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614705FE828069
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470600818069
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470600828053
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470600828066
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470600828084
@@ -1730,13 +2099,22 @@ test_cases:
 - response: 7B807614706008380D4
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614706008480C0
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614706008B8441
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470602828069
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470604828069
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614706068380B9
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614706098882DC
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614706F4818067
@@ -1751,7 +2129,13 @@ test_cases:
 - response: 7B807614706FC82805C
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B807614706FC828073
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B807614706FD81804C
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614706FD828070
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614706FE818065
@@ -1764,6 +2148,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614706FE838137
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B807614706FF828069
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470700828083
@@ -1808,6 +2195,12 @@ test_cases:
 - response: 7B8076147090083808B
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470900848090
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147090084809E
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470900878191
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1844,6 +2237,9 @@ test_cases:
 - response: 7B80761470C05908439
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470C068A823C
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470C069083E7
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1851,6 +2247,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470CFE84818E
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470CFE8680CF
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470CFE89827B
@@ -1869,6 +2268,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470E00958649
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B80761470E069184B7
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B80761470EFF9385A9
@@ -1893,6 +2295,12 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147EF066D7AE7
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147EFF76C7AD9
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147F3F66F7A91
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147F400717D54
@@ -1949,6 +2357,9 @@ test_cases:
 - response: 7B8076147F8FD7C7F70
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147F8FE7E7F90
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147F8FF7B7F4E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -1983,6 +2394,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FB007E7FAB
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FB007E7FB4
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FB007F7FC6
@@ -2027,10 +2441,22 @@ test_cases:
 - response: 7B8076147FBFE7F7FC4
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FBFF7E7FA8
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FBFF7E7FBD
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FC007C7F9D
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FC00916953
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FC017E7FA8
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FC017E7FC1
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FC017E7FC3
@@ -2042,16 +2468,46 @@ test_cases:
 - response: 7B8076147FCFE7D7F76
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FCFE7F7FCB
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FCFE808072
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FD007D7F67
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FD007D7F87
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FD007E7FA6
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FD007E7FB8
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FD007E7FC2
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FD007F7FC4
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FD007F7FC5
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FD007F7FC8
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FD007F7FD3
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FD017F7FB5
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FD017F7FC6
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FDF6808034
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FDFB7D7F73
@@ -2087,16 +2543,34 @@ test_cases:
 - response: 7B8076147FE007D7F25
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FE007E7F93
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FE007E7FB2
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FE007F7FC4
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FE007F7FCA
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FE00807FC8
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FE00807FDC
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FE00807FE4
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FE00807FF4
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FE0080801E
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FE00808091
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FE008872EF
@@ -2117,6 +2591,9 @@ test_cases:
 - response: 7B8076147FE02876CD1
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FE037E7FA0
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FE037F7FDD
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -2124,6 +2601,9 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FE04807BF5
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FE04807FEB
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FE05807BF5
@@ -2135,10 +2615,16 @@ test_cases:
 - response: 7B8076147FEF37E7F4D
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FEF6807DB7
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FEFA7F7F73
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FEFB80801F
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FEFD7F7FB7
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FEFD7F7FC2
@@ -2147,10 +2633,16 @@ test_cases:
 - response: 7B8076147FEFD7F7FCB
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FEFD7F7FD4
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FEFD807FD3
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FEFE7B7A85
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FEFE7D7F83
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FEFE7E7FB4
@@ -2160,6 +2652,12 @@ test_cases:
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FEFE7F7FCD
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FEFE7F7FD0
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FEFE7F7FD1
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FEFE7F7FD8
@@ -2201,6 +2699,9 @@ test_cases:
 - response: 7B8076147FEFF7F7FDA
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FEFF7F7FDF
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FEFF807F6E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -2210,10 +2711,16 @@ test_cases:
 - response: 7B8076147FEFF80801E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FF007D7F86
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FF007F7F5E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FF007F7FB6
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FF007F7FCC
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FF007F7FD8
@@ -2231,6 +2738,9 @@ test_cases:
 - response: 7B8076147FF00807FF1
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FF00807FF2
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FF00808001
   expected_values:
     COROLLA_STEER_ANGLE: -1000
@@ -2240,10 +2750,19 @@ test_cases:
 - response: 7B8076147FF0080846F
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FF01807FF1
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FF02808001
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FF03807BAA
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FF03807FD8
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FF03807FF8
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FF03817A7B
@@ -2303,10 +2822,22 @@ test_cases:
 - response: 7B8076147FFFD807FEE
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFD818185
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFE7D7E7E
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFE7E7F9B
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FFFE7F7F84
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FFFE7F7FBF
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFE7F7FD9
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FFFE807FE2
@@ -2318,7 +2849,13 @@ test_cases:
 - response: 7B8076147FFFE807FF2
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFE807FFB
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FFFE808008
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFE83815E
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FFFF7F7FDC
@@ -2336,7 +2873,19 @@ test_cases:
 - response: 7B8076147FFFF807FE5
   expected_values:
     COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFF807FF1
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFF807FF8
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FFFF808016
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFF808177
+  expected_values:
+    COROLLA_STEER_ANGLE: -1000
+- response: 7B8076147FFFF808184
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B8076147FFFF80847E

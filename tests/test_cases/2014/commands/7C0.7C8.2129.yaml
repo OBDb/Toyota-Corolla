@@ -5,6 +5,9 @@ test_cases:
 - response: 7C803612906
   expected_values:
     COROLLA_FLI_VOL: 3
+- response: 7C803612909
+  expected_values:
+    COROLLA_FLI_VOL: 4.5
 - response: 7C80361290A
   expected_values:
     COROLLA_FLI_VOL: 5
@@ -101,6 +104,9 @@ test_cases:
 - response: 7C80361292D
   expected_values:
     COROLLA_FLI_VOL: 22.5
+- response: 7C80361292E
+  expected_values:
+    COROLLA_FLI_VOL: 23
 - response: 7C80361292F
   expected_values:
     COROLLA_FLI_VOL: 23.5
