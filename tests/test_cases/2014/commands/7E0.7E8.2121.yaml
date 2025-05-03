@@ -23,6 +23,9 @@ test_cases:
 - response: 7E807612100000080E0
   expected_values:
     COROLLA_CC_S: 0
+- response: 7E807612101000000E0
+  expected_values:
+    COROLLA_CC_S: 0
 - response: '7E80761210200008000'
   expected_values:
     COROLLA_CC_S: 0
@@ -72,6 +75,9 @@ test_cases:
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E807612108000080E0
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E807612109000000E0
   expected_values:
     COROLLA_CC_S: 0
 - response: '7E80761210900008000'
@@ -149,6 +155,12 @@ test_cases:
 - response: 7E807612114000080E0
   expected_values:
     COROLLA_CC_S: 0
+- response: '7E80761211500008000'
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E807612115000080E0
+  expected_values:
+    COROLLA_CC_S: 0
 - response: '7E80761211600008000'
   expected_values:
     COROLLA_CC_S: 0
@@ -186,6 +198,9 @@ test_cases:
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E80761211C00008000
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E80761211C000080E0
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E80761211D000080E0
@@ -258,6 +273,9 @@ test_cases:
   expected_values:
     COROLLA_CC_S: 0
 - response: '7E80761212900008000'
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E807612129000080E0
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E80761212A00008000
@@ -369,6 +387,9 @@ test_cases:
   expected_values:
     COROLLA_CC_S: 62
 - response: 7E80761213E00008000
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E80761213E000080E0
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E80761213E3F0FFC00
@@ -488,6 +509,9 @@ test_cases:
 - response: 7E807612155000080E0
   expected_values:
     COROLLA_CC_S: 0
+- response: '7E80761215600008000'
+  expected_values:
+    COROLLA_CC_S: 0
 - response: '7E80761215700008000'
   expected_values:
     COROLLA_CC_S: 0
@@ -519,6 +543,9 @@ test_cases:
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E80761215E00008000
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E80761215E000080E0
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E80761215F00008000
@@ -615,5 +642,11 @@ test_cases:
   expected_values:
     COROLLA_CC_S: 0
 - response: 7E80761217A00008000
+  expected_values:
+    COROLLA_CC_S: 0
+- response: 7E80761217C00008000
+  expected_values:
+    COROLLA_CC_S: 0
+- response: '7E80761218000008000'
   expected_values:
     COROLLA_CC_S: 0

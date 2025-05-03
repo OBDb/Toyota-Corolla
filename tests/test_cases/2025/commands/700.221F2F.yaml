@@ -251,12 +251,18 @@ test_cases:
 - response: 70804621F2F88
   expected_values:
     COROLLA_FLI: 53.33333
+- response: 70804621F2F89
+  expected_values:
+    COROLLA_FLI: 53.72549
 - response: 70804621F2F8A
   expected_values:
     COROLLA_FLI: 54.11765
 - response: 70804621F2F8B
   expected_values:
     COROLLA_FLI: 54.5098
+- response: 70804621F2F8C
+  expected_values:
+    COROLLA_FLI: 54.90196
 - response: 70804621F2F8D
   expected_values:
     COROLLA_FLI: 55.29412
@@ -302,6 +308,9 @@ test_cases:
 - response: 70804621F2F9B
   expected_values:
     COROLLA_FLI: 60.78431
+- response: 70804621F2F9C
+  expected_values:
+    COROLLA_FLI: 61.17647
 - response: 70804621F2F9D
   expected_values:
     COROLLA_FLI: 61.56863
