@@ -44,6 +44,9 @@ test_cases:
 - response: '709056216276540'
   expected_values:
     COROLLA_TF1_PAN: 142.25
+- response: '709056216276680'
+  expected_values:
+    COROLLA_TF1_PAN: 144.5
 - response: '709056216276720'
   expected_values:
     COROLLA_TF1_PAN: 145.625
