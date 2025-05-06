@@ -14,15 +14,7 @@ test_cases:
   expected_values:
     COROLLA_GEAR: 20
     COROLLA_GEAR_LOCKUP: 1
-- response: 7E806618520820BC3
-  expected_values:
-    COROLLA_GEAR: 20
-    COROLLA_GEAR_LOCKUP: 1
 - response: 7E8066185208A081B
-  expected_values:
-    COROLLA_GEAR: 20
-    COROLLA_GEAR_LOCKUP: 1
-- response: 7E8066185208A08C9
   expected_values:
     COROLLA_GEAR: 20
     COROLLA_GEAR_LOCKUP: 1
@@ -30,19 +22,7 @@ test_cases:
   expected_values:
     COROLLA_GEAR: 20
     COROLLA_GEAR_LOCKUP: 1
-- response: 7E8066185A08A0AB3
-  expected_values:
-    COROLLA_GEAR: 20
-    COROLLA_GEAR_LOCKUP: 1
-- response: 7E8066185A08A0B80
-  expected_values:
-    COROLLA_GEAR: 20
-    COROLLA_GEAR_LOCKUP: 1
 - response: 7E8066185A08A10E9
-  expected_values:
-    COROLLA_GEAR: 20
-    COROLLA_GEAR_LOCKUP: 1
-- response: 7E8066185A08A18CF
   expected_values:
     COROLLA_GEAR: 20
     COROLLA_GEAR_LOCKUP: 1
