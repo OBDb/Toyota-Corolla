@@ -11,9 +11,9 @@ test_cases:
 - response: 7E80461823DE0
   expected_values:
     COROLLA_ATF_PAN_T: 21.875
-- response: '7E80461828020'
+- response: 7E80461828C00
   expected_values:
-    COROLLA_ATF_PAN_T: 88.125
+    COROLLA_ATF_PAN_T: 100
 - response: |-
     7E81008618237008388
     7E82107B90000000000

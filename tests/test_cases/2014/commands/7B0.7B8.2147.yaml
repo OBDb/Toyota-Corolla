@@ -14,7 +14,7 @@ test_cases:
 - response: 7B807614700FF7E7F89
   expected_values:
     COROLLA_STEER_ANGLE: -1000
-- response: 7B807614708009D9572
+- response: 7B807614703F89B9632
   expected_values:
     COROLLA_STEER_ANGLE: -1000
 - response: 7B807614708FDA092F6
