@@ -2,9 +2,9 @@ command_id: 700.221F2F
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 70804621F2F18
+- response: 70804621F2F14
   expected_values:
-    COROLLA_FLI: 9.41176
+    COROLLA_FLI: 7.84314
 - response: 70804621F2FEC
   expected_values:
     COROLLA_FLI: 92.54902
