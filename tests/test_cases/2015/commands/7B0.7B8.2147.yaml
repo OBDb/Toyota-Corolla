@@ -4,22 +4,22 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7B80761470000807FE4
   expected_values:
-    COROLLA_STEER_ANGLE: -1000
+    COROLLA_STEER_ANGLE: 3274.0
 - response: 7B80761470000808000
   expected_values:
-    COROLLA_STEER_ANGLE: -1000
+    COROLLA_STEER_ANGLE: 3276.8
 - response: 7B80761470003807FFF
   expected_values:
-    COROLLA_STEER_ANGLE: -1000
+    COROLLA_STEER_ANGLE: 3276.7
 - response: 7B807614700FF807FF2
   expected_values:
-    COROLLA_STEER_ANGLE: -1000
+    COROLLA_STEER_ANGLE: 3275.4
 - response: 7B807614709FCA591AF
   expected_values:
-    COROLLA_STEER_ANGLE: -1000
+    COROLLA_STEER_ANGLE: 3729.5
 - response: 7B8076147EC005B754C
   expected_values:
-    COROLLA_STEER_ANGLE: -1000
+    COROLLA_STEER_ANGLE: 3002.8
 - response: 7B8076147FF00807FEB
   expected_values:
-    COROLLA_STEER_ANGLE: -1000
+    COROLLA_STEER_ANGLE: 3274.7

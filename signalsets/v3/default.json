@@ -1,64 +1,13 @@
 { "commands": [
-{ "hdr": "700", "dbg": true, "cmd": {"22": "1F2F"}, "freq": 30,
+{ "hdr": "700", "cmd": {"22": "1F2F"}, "freq": 30,
   "signals": [
     {"id": "COROLLA_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "701", "rax": "709", "dbg": true, "cmd": {"22": "1627"}, "freq": 1,
+{ "hdr": "701", "rax": "709", "cmd": {"22": "1627"}, "freq": 1,
   "signals": [
-    {"id": "COROLLA_TF1_PAN", "path": "Engine", "fmt": { "len": 16, "max": 350, "min": -40, "mul": 0.00703125, "add": -40, "unit": "fahrenheit" }, "name": "Transmission Fluid Pan Temperature"}
+    {"id": "COROLLA_TF1_PAN", "path": "Engine", "fmt": { "len": 16, "max": 350, "min": -40, "mul": 0.00703125, "add": -40, "unit": "fahrenheit" }, "name": "Transmission fluid pan temperature"}
   ]},
-{ "hdr": "701", "rax": "709", "dbg": true, "cmd": {"22": "1628"}, "freq": 1,
-  "signals": [
-    {"id": "COROLLA_TF2_CONV", "path": "Engine", "fmt": { "len": 16, "max": 350, "min": -40, "mul": 0.00703125, "add": -40, "unit": "fahrenheit" }, "name": "Transmission Fluid Post-Converter Temperature"}
-  ]},
-{ "hdr": "750", "eax": "2A", "tst": "2A", "tmo": "96", "fcm1": true, "dbg": true, "cmd": {"21": "16"}, "freq": 5,
-  "signals": [
-    {"id": "COROLLA_TT_FL",    "path": "Tires", "fmt": {           "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Front left tire temperature"},
-    {"id": "COROLLA_TT_FR",    "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Front right tire temperature"},
-    {"id": "COROLLA_TT_RL",    "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Rear left tire temperature"},
-    {"id": "COROLLA_TT_RR",    "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Rear right tire temperature"},
-    {"id": "COROLLA_TT_SPARE", "path": "Tires", "fmt": {"bix": 32, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Spare tire temperature"}
-  ]},
-{ "hdr": "750", "rax": "758", "eax": "2A", "tst": "2A", "fcm1": true, "dbg": true, "cmd": {"21": "30"}, "freq": 5,
-  "signals": [
-    {"id": "COROLLA_TP_FL",    "path": "Tires", "fmt": {           "len": 8, "max": 4, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Front left tire pressure",  "suggestedMetric": "frontLeftTirePressure"},
-    {"id": "COROLLA_TP_FR",    "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 4, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"},
-    {"id": "COROLLA_TP_RL",    "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 4, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Rear left tire pressure",   "suggestedMetric": "rearLeftTirePressure"},
-    {"id": "COROLLA_TP_RR",    "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 4, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Rear right tire pressure",  "suggestedMetric": "rearRightTirePressure"},
-    {"id": "COROLLA_TP_SPARE", "path": "Tires", "fmt": {"bix": 32, "len": 8, "max": 4, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Spare tire pressure"}
-  ]},
-{ "hdr": "750", "rax": "758", "eax": "2A", "tst": "2A", "fcm1": true, "dbg": true, "cmd": {"22": "2021"}, "freq": 86400,
-  "signals": [
-    {"id": "COROLLA_TID_1", "path": "Tires", "name": "Tire 1 position", "fmt": {"len": 8, "map": {
-          "1": { "description": "Front left",  "value": "FL" },
-          "2": { "description": "Front right", "value": "FR" },
-          "3": { "description": "Rear left",   "value": "RL" },
-          "4": { "description": "Rear right",  "value": "RR" }
-        }}
-    },
-    {"id": "COROLLA_TID_2", "path": "Tires", "name": "Tire 2 position", "fmt": {"bix": 8, "len": 8, "map": {
-          "1": { "description": "Front left",  "value": "FL" },
-          "2": { "description": "Front right", "value": "FR" },
-          "3": { "description": "Rear left",   "value": "RL" },
-          "4": { "description": "Rear right",  "value": "RR" }
-        }}
-    },
-    {"id": "COROLLA_TID_3", "path": "Tires", "name": "Tire 3 position", "fmt": {"bix": 16, "len": 8, "map": {
-          "1": { "description": "Front left",  "value": "FL" },
-          "2": { "description": "Front right", "value": "FR" },
-          "3": { "description": "Rear left",   "value": "RL" },
-          "4": { "description": "Rear right",  "value": "RR" }
-        }}
-    },
-    {"id": "COROLLA_TID_4", "path": "Tires", "name": "Tire 4 position", "fmt": {"bix": 24, "len": 8, "map": {
-          "1": { "description": "Front left",  "value": "FL" },
-          "2": { "description": "Front right", "value": "FR" },
-          "3": { "description": "Rear left",   "value": "RL" },
-          "4": { "description": "Rear right",  "value": "RR" }
-        }}
-    }
-  ]},
-{ "hdr": "7B0", "rax": "7B8", "dbg": true, "cmd": {"21": "03"}, "freq": 0.25,
+{ "hdr": "7B0", "rax": "7B8", "cmd": {"21": "03"}, "freq": 0.25,
   "signals": [
     {"id": "COROLLA_TIRE_FR_SPD", "path": "Movement", "fmt": {           "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
     {"id": "COROLLA_TIRE_FL_SPD", "path": "Movement", "fmt": {"bix": 8,  "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
@@ -67,32 +16,32 @@
   ]},
 { "hdr": "7B0", "rax": "7B8", "dbg": true, "cmd": {"21": "47"}, "freq": 0.25,
   "signals": [
-    {"id": "COROLLA_STEER_ANGLE", "path": "Control", "fmt": {"bix": 24, "len": 16, "max": 1000, "min": -1000, "div": 10, "add": -32768, "unit": "degrees" }, "name": "Steering wheel angle"}
+    {"id": "COROLLA_STEER_ANGLE", "path": "Control", "fmt": {"bix": 24, "len": 16, "max": -26214.5, "div": 10, "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"21": "29"}, "freq": 30,
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 1,
   "signals": [
     {"id": "COROLLA_FLI_VOL", "path": "Fuel", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "liters" }, "name": "Fuel level (volume)", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "21"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "21"}, "freq": 5,
   "signals": [
     {"id": "COROLLA_CC_S", "path": "Cruise control", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "28"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "28"}, "freq": 5,
   "signals": [
-    {"id": "COROLLA_ODO", "path": "Trips", "fmt": { "len": 24, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "COROLLA_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "51"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "51"}, "freq": 1,
   "signals": [
-    {"id": "COROLLA_PREV_TRIP_DST", "path": "Trips",  "fmt": {"bix": 40, "len": 16, "max": 655.35,             "div": 100, "unit": "kilometers" }, "name": "Previous trip distance"},
-    {"id": "COROLLA_VVTOT",         "path": "Engine", "fmt": {"bix": 56, "len": 8,  "max": 215,    "min": -40,             "unit": "celsius"    }, "name": "Variable valve timing oil temperature"},
-    {"id": "COROLLA_EOT",           "path": "Engine", "fmt": {"bix": 72, "len": 8,  "max": 215,    "min": -40,             "unit": "celsius"    }, "name": "Engine oil temperature"}
+    {"id": "COROLLA_PREV_TRIP_DST", "path": "Trips",  "fmt": {"bix": 40, "len": 16, "max": 655.35,             "div": 100,             "unit": "kilometers" }, "name": "Previous trip distance"},
+    {"id": "COROLLA_VVTOT",         "path": "Engine", "fmt": {"bix": 56, "len": 8,  "max": 215,    "min": -40,             "add": -40, "unit": "celsius"    }, "name": "Variable valve timing oil temperature"},
+    {"id": "COROLLA_EOT",           "path": "Engine", "fmt": {"bix": 72, "len": 8,  "max": 215,    "min": -40,             "add": -40, "unit": "celsius"    }, "name": "Engine oil temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "82"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "82"}, "freq": 1,
   "signals": [
     {"id": "COROLLA_ATF_PAN_T", "path": "Transmission", "fmt": {           "len": 16, "max": 215, "min": -40, "div": 256, "add": -40, "unit": "celsius" }, "name": "Transmission temperature (pan)"},
     {"id": "COROLLA_ATF_TQC_T", "path": "Transmission", "fmt": {"bix": 16, "len": 16, "max": 215, "min": -40, "div": 256, "add": -40, "unit": "celsius" }, "name": "Transmission temperature (torque converter)"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "85"}, "freq": 0.5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "85"}, "freq": 0.5,
   "signals": [
     {"id": "COROLLA_GEAR",        "path": "Transmission", "fmt": {          "len": 8, "max": 20, "unit": "scalar" }, "name": "Gear"},
     {"id": "COROLLA_GEAR_LOCKUP", "path": "Transmission", "fmt": {"bix": 8, "len": 1, "max": 1,  "unit": "offon"  }, "name": "Gear lock-up", "description": "Mechanism within the automatic transmission that momentarily locks the gears during gear changes, providing a smoother and more efficient transition between different gears, especially when accelerating or decelerating; essentially helps minimize power loss and jerkiness during gear shifts."}
