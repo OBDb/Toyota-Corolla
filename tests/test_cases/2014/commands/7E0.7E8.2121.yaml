@@ -8,9 +8,9 @@ test_cases:
 - response: 7E807612100000000E0
   expected_values:
     COROLLA_CC_S: 0
-- response: 7E80761213D3E06FC00
+- response: 7E80761213C3C0AFC00
   expected_values:
-    COROLLA_CC_S: 62
+    COROLLA_CC_S: 60
 - response: 7E80761213E3F0FFC00
   expected_values:
     COROLLA_CC_S: 63
