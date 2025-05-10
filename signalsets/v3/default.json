@@ -1,32 +1,32 @@
 { "commands": [
-{ "hdr": "700", "cmd": {"22": "1F2F"}, "freq": 30,
+{ "hdr": "700", "cmd": {"22": "1F2F"}, "freq": 30, "filter": { "from": 2010 },
   "signals": [
     {"id": "COROLLA_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "701", "rax": "709", "cmd": {"22": "1627"}, "freq": 1,
+{ "hdr": "701", "rax": "709", "cmd": {"22": "1627"}, "freq": 1, "filter": { "from": 2010 },
   "signals": [
     {"id": "COROLLA_TF1_PAN", "path": "Engine", "fmt": { "len": 16, "max": 350, "min": -40, "mul": 0.00703125, "add": -40, "unit": "fahrenheit" }, "name": "Transmission fluid pan temperature"}
   ]},
-{ "hdr": "7B0", "rax": "7B8", "cmd": {"21": "03"}, "freq": 0.25,
+{ "hdr": "7B0", "rax": "7B8", "cmd": {"21": "03"}, "freq": 0.25, "filter": { "from": 2009, "to": 2019 },
   "signals": [
     {"id": "COROLLA_TIRE_FR_SPD", "path": "Movement", "fmt": {           "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
     {"id": "COROLLA_TIRE_FL_SPD", "path": "Movement", "fmt": {"bix": 8,  "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
     {"id": "COROLLA_TIRE_RR_SPD", "path": "Movement", "fmt": {"bix": 16, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"},
     {"id": "COROLLA_TIRE_RL_SPD", "path": "Movement", "fmt": {"bix": 24, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7B0", "rax": "7B8", "dbg": true, "cmd": {"21": "47"}, "freq": 0.25,
+{ "hdr": "7B0", "rax": "7B8", "dbg": true, "cmd": {"21": "47"}, "freq": 0.25, "filter": { "to": 2019 },
   "signals": [
     {"id": "COROLLA_STEER_ANGLE", "path": "Control", "fmt": {"bix": 24, "len": 16, "max": -26214.5, "div": 10, "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 1,
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 1, "filter": { "to": 2019 },
   "signals": [
     {"id": "COROLLA_FLI_VOL", "path": "Fuel", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "liters" }, "name": "Fuel level (volume)", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "21"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "21"}, "freq": 5, "filter": { "to": 2019 },
   "signals": [
     {"id": "COROLLA_CC_S", "path": "Cruise control", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "28"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "28"}, "freq": 5, "filter": { "to": 2019 },
   "signals": [
     {"id": "COROLLA_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
