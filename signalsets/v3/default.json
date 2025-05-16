@@ -16,10 +16,10 @@
   ]},
 { "hdr": "7B0", "rax": "7B8", "dbg": true, "cmd": {"21": "47"}, "freq": 0.25, "filter": { "to": 2019 },
   "signals": [
-    {"id": "COROLLA_LAT_G",       "path": "Orientation", "fmt": {           "len": 8,  "max": 24.91,  "min": -25.11, "mul": 0.1961568627,            "add": -25.11,  "unit": "gravity" }, "name": "Lateral g"},
-    {"id": "COROLLA_LNG_G",       "path": "Orientation", "fmt": {"bix": 8,  "len": 8,  "max": 24.91,  "min": -25.11, "mul": 0.1961568627,            "add": -25.11,  "unit": "gravity" }, "name": "Longitudinal g"},
-    {"id": "COROLLA_YAW_RATE",    "path": "Orientation", "fmt": {"bix": 16, "len": 8,  "max": 127,    "min": -128,                                   "add": -128,    "unit": "scalar"  }, "name": "Yaw rate value (degrees/sec)"},
-    {"id": "COROLLA_STEER_ANGLE", "path": "Control",     "fmt": {"bix": 24, "len": 16, "max": 3276.7, "min": -3276,                       "div": 10, "add": -3276.8, "unit": "degrees" }, "name": "Steering wheel angle"}
+    {"id": "COROLLA_LAT_G",       "path": "Orientation", "fmt": {           "len": 8,  "max": 2.5,    "min": -2.5,  "div": 50,                 "sign": true, "unit": "gravity" }, "name": "Lateral g"},
+    {"id": "COROLLA_LNG_G",       "path": "Orientation", "fmt": {"bix": 8,  "len": 8,  "max": 2.5,    "min": -2.5,  "div": 50,                 "sign": true, "unit": "gravity" }, "name": "Longitudinal g"},
+    {"id": "COROLLA_YAW_RATE",    "path": "Orientation", "fmt": {"bix": 16, "len": 8,  "max": 127,    "min": -128,             "add": -128,                  "unit": "degrees" }, "name": "Yaw rate value (degrees/se"},
+    {"id": "COROLLA_STEER_ANGLE", "path": "Control",     "fmt": {"bix": 24, "len": 16, "max": 3276.7, "min": -3276, "div": 10, "add": -3276.8,               "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
 { "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 1, "filter": { "to": 2019 },
   "signals": [
