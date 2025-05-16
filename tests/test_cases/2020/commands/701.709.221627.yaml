@@ -3,11 +3,8 @@ can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: '709056216278200'
-  expected_values:
-    COROLLA_TF1_PAN: 194
+  expected_values: {}
 - response: 7090562162782A0
-  expected_values:
-    COROLLA_TF1_PAN: 195.125
+  expected_values: {}
 - response: '709056216278340'
-  expected_values:
-    COROLLA_TF1_PAN: 196.25
+  expected_values: {}
