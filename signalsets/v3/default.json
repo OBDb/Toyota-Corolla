@@ -1,4 +1,8 @@
 { "commands": [
+{ "hdr": "700", "dbg": true, "cmd": {"22": "10CD"}, "freq": 1,
+  "signals": [
+    {"id": "COROLLA_LFPS", "path": "Fuel", "fmt": { "len": 16, "max": 100, "div": 10, "add": -3276.8, "unit": "kilopascal" }, "name": "Low fuel pressure sensor"}
+  ]},
 { "hdr": "700", "cmd": {"22": "1F2F"}, "freq": 30, "dbgfilter": { "to": 2019 },
   "signals": [
     {"id": "COROLLA_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
