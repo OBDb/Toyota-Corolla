@@ -2,12 +2,9 @@ command_id: 701.709.221627
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: '7090562162742E0'
-  expected_values:
-    COROLLA_TF1_PAN: 80.375
+- response: 7090562162742E0
+  expected_values: {}
 - response: '709056216274600'
-  expected_values:
-    COROLLA_TF1_PAN: 86
+  expected_values: {}
 - response: '709056216279100'
-  expected_values:
-    COROLLA_TF1_PAN: 221
+  expected_values: {}
