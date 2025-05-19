@@ -1,0 +1,24 @@
+command_id: 7E0.7E8.2185
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056185010010'
+  expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185020010'
+  expected_values:
+    COROLLA_GEAR: 2
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185030010'
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185034010'
+  expected_values:
+    COROLLA_GEAR: 3
+    COROLLA_GEAR_LOCKUP: 0
+- response: '7E8056185040010'
+  expected_values:
+    COROLLA_GEAR: 4
+    COROLLA_GEAR_LOCKUP: 0

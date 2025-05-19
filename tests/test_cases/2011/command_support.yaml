@@ -39,3 +39,9 @@ supported_commands_by_ecu:
   - 014D:MIL_TIME
   - 014E:CLR_TIME
   - 0153:EVAP_VPA
+unsupported_commands_by_ecu:
+  700:
+  - 700.2210CD:COROLLA_LFPS
+  - 700.221F2F:COROLLA_FLI
+  7E0:
+  - 7E0.7E8.2128

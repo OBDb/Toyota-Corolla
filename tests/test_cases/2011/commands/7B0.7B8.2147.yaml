@@ -1,0 +1,46 @@
+command_id: 7B0.7B8.2147
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7B80761470001807FEA
+  expected_values:
+    COROLLA_LAT_G: 0
+    COROLLA_LNG_G: 0.02
+    COROLLA_STEER_ANGLE: -2.2
+    COROLLA_YAW_RATE: 0
+- response: 7B807614700F6808021
+  expected_values:
+    COROLLA_LAT_G: 0
+    COROLLA_LNG_G: -0.2
+    COROLLA_STEER_ANGLE: 3.3
+    COROLLA_YAW_RATE: 0
+- response: 7B8076147010080800B
+  expected_values:
+    COROLLA_LAT_G: 0.02
+    COROLLA_LNG_G: 0
+    COROLLA_STEER_ANGLE: 1.1
+    COROLLA_YAW_RATE: 0
+- response: 7B807614701FF80800B
+  expected_values:
+    COROLLA_LAT_G: 0.02
+    COROLLA_LNG_G: -0.02
+    COROLLA_STEER_ANGLE: 1.1
+    COROLLA_YAW_RATE: 0
+- response: 7B8076147FEFF8A6BCD
+  expected_values:
+    COROLLA_LAT_G: -0.04
+    COROLLA_LNG_G: -0.02
+    COROLLA_STEER_ANGLE: -517.1
+    COROLLA_YAW_RATE: 10
+- response: 7B8076147FF03807FF1
+  expected_values:
+    COROLLA_LAT_G: -0.02
+    COROLLA_LNG_G: 0.06
+    COROLLA_STEER_ANGLE: -1.5
+    COROLLA_YAW_RATE: 0
+- response: 7B8076147FFFE807FF5
+  expected_values:
+    COROLLA_LAT_G: -0.02
+    COROLLA_LNG_G: -0.04
+    COROLLA_STEER_ANGLE: -1.1
+    COROLLA_YAW_RATE: 0
