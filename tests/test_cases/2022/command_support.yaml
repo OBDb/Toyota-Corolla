@@ -121,8 +121,8 @@ unsupported_commands_by_ecu:
   700:
   - 700.221F2F:COROLLA_FLI
   701:
-  - 701.709.221627:COROLLA_TF1_PAN
-  - 701.709.221628:COROLLA_TF2_CONV
+  - 701.709.221627
+  - 701.709.221628
   750:
   - '750.2116'
   - 750.758.2130
@@ -136,6 +136,7 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.010D
   - 7E0.7E8.0131
   - 7E0.7E8.2121
+  - 7E0.7E8.2128
   7E2:
   - 7E2.7EA.010D
   - 7E2.7EA.0131
