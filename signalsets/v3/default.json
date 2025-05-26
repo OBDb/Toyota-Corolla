@@ -1,7 +1,7 @@
 { "commands": [
 { "hdr": "700", "dbg": true, "cmd": {"22": "10CD"}, "freq": 1,
   "signals": [
-    {"id": "COROLLA_LFPS", "path": "Fuel", "fmt": { "len": 16, "max": 100, "div": 10, "add": -3276.8, "unit": "kilopascal" }, "name": "Low fuel pressure sensor"}
+    {"id": "COROLLA_LFPS", "path": "Fuel", "fmt": { "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "kilopascal" }, "name": "Low fuel pressure sensor"}
   ]},
 { "hdr": "700", "cmd": {"22": "1F2F"}, "freq": 30, "dbgfilter": { "to": 2019 },
   "signals": [
@@ -18,7 +18,7 @@
     {"id": "COROLLA_TIRE_RR_SPD", "path": "Movement", "fmt": {"bix": 16, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"},
     {"id": "COROLLA_TIRE_RL_SPD", "path": "Movement", "fmt": {"bix": 24, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7B0", "rax": "7B8", "dbg": true, "cmd": {"21": "47"}, "freq": 0.25, "filter": { "to": 2019 },
+{ "hdr": "7B0", "rax": "7B8", "cmd": {"21": "47"}, "freq": 0.25, "filter": { "to": 2019 },
   "signals": [
     {"id": "COROLLA_LAT_G",       "path": "Orientation", "fmt": {           "len": 8,  "max": 2.5,    "min": -2.5,  "div": 50,                 "sign": true, "unit": "gravity" }, "name": "Lateral g"},
     {"id": "COROLLA_LNG_G",       "path": "Orientation", "fmt": {"bix": 8,  "len": 8,  "max": 2.5,    "min": -2.5,  "div": 50,                 "sign": true, "unit": "gravity" }, "name": "Longitudinal g"},
@@ -48,7 +48,7 @@
     {"id": "COROLLA_ATF_PAN_T", "path": "Transmission", "fmt": {           "len": 16, "max": 215, "min": -40, "div": 256, "add": -40, "unit": "celsius" }, "name": "Transmission temperature (pan)"},
     {"id": "COROLLA_ATF_TQC_T", "path": "Transmission", "fmt": {"bix": 16, "len": 16, "max": 215, "min": -40, "div": 256, "add": -40, "unit": "celsius" }, "name": "Transmission temperature (torque converter)"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "85"}, "freq": 0.5, "dbgfilter": { "from": 2023, "to": 2013, "years": [2015, 2016, 2017, 2018, 2019] },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "85"}, "freq": 0.5, "dbgfilter": { "from": 2023, "to": 2010, "years": [2012, 2013, 2015, 2016, 2017, 2018, 2019] },
   "signals": [
     {"id": "COROLLA_GEAR",        "path": "Transmission", "fmt": {          "len": 8, "max": 20, "unit": "scalar" }, "name": "Gear"},
     {"id": "COROLLA_GEAR_LOCKUP", "path": "Transmission", "fmt": {"bix": 8, "len": 1, "max": 1,  "unit": "offon"  }, "name": "Gear lock-up", "description": "Mechanism within the automatic transmission that momentarily locks the gears during gear changes, providing a smoother and more efficient transition between different gears, especially when accelerating or decelerating; essentially helps minimize power loss and jerkiness during gear shifts."}

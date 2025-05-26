@@ -1,6 +1,4 @@
-command_id: 7B0.7B8.2147
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
+command_id: 7B0.7B8.2147|f=-2019
 test_cases:
 - response: 7B80761470000716950
   expected_values:
