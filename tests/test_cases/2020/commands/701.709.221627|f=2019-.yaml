@@ -1,0 +1,11 @@
+command_id: 701.709.221627|f=2019-
+test_cases:
+- response: '709056216278200'
+  expected_values:
+    COROLLA_TF1_PAN: 194
+- response: 7090562162782A0
+  expected_values:
+    COROLLA_TF1_PAN: 195.125
+- response: '709056216278340'
+  expected_values:
+    COROLLA_TF1_PAN: 196.25
