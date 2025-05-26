@@ -1,4 +1,4 @@
-command_id: 701.709.221627|f=-2019
+command_id: 701.709.221627|f=2019-
 test_cases:
 - response: 709056216273C00
   expected_values:

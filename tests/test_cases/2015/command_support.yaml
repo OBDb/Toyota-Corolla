@@ -42,7 +42,7 @@ unsupported_commands_by_ecu:
   700:
   - 700.221F2F:COROLLA_FLI
   701:
-  - 701.709.221627|f=-2019:COROLLA_TF1_PAN
+  - 701.709.221627|f=2019-:COROLLA_TF1_PAN
   - 701.709.221628
   750:
   - '750.2116'

@@ -7,7 +7,7 @@
   "signals": [
     {"id": "COROLLA_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "701", "rax": "709", "cmd": {"22": "1627"}, "freq": 1, "filter": { "to": 2019 },
+{ "hdr": "701", "rax": "709", "cmd": {"22": "1627"}, "freq": 1, "filter": { "from": 2019 },
   "signals": [
     {"id": "COROLLA_TF1_PAN", "path": "Engine", "fmt": { "len": 16, "max": 350, "min": -40, "mul": 0.00703125, "add": -40, "unit": "fahrenheit" }, "name": "Transmission fluid pan temperature"}
   ]},
@@ -33,7 +33,7 @@
   "signals": [
     {"id": "COROLLA_CC_S", "path": "Cruise control", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "28"}, "freq": 5, "filter": { "to": 2019 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "28"}, "freq": 5, "filter": { "from": 2019 },
   "signals": [
     {"id": "COROLLA_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
