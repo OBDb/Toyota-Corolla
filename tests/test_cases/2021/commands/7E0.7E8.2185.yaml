@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2185
+test_cases:
+- expected_values:
+    COROLLA_GEAR: 0
+    COROLLA_GEAR_LOCKUP: 1
+  response: 7E8066185008228F6

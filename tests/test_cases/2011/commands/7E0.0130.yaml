@@ -1,0 +1,17 @@
+command_id: 7E0.0130
+test_cases:
+- expected_values:
+    WARM_UPS: 14
+  response: 7E80341300E
+- expected_values:
+    WARM_UPS: 19
+  response: '7E803413013'
+- expected_values:
+    WARM_UPS: 28
+  response: 7E80341301C
+- expected_values:
+    WARM_UPS: 84
+  response: '7E803413054'
+- expected_values:
+    WARM_UPS: 88
+  response: '7E803413058'
