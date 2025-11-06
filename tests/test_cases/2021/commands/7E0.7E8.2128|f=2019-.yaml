@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.2128|f=2019-
 test_cases:
-- response: '7E8056128030646'
-  expected_values:
+- expected_values:
     COROLLA_ODO: 198214
+  response: '7E8056128030646'
