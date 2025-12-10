@@ -1,6 +1,10 @@
 command_id: 7E0.0124
 test_cases:
-- response: 7E80641247F8E6917
-  expected_values:
-    LAMBDA11_WIDE: 0.99652
-    O2S11_WIDE: 3.28245
+- expected_values:
+    LAMBDA11_VOLT: 0.92868
+    O2S11_VOLT: 2.82003
+  response: 7E806412476DF5A49
+- expected_values:
+    LAMBDA11_VOLT: 0.99652
+    O2S11_VOLT: 3.28245
+  response: 7E80641247F8E6917
