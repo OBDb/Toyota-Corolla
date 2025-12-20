@@ -1,44 +1,56 @@
 command_id: 7E0.7E8.2182
 test_cases:
-- response: |-
-    7E81008618273008315
-    7E82107F30000000000
-  expected_values:
-    COROLLA_ATF_PAN_T: 75
-    COROLLA_ATF_TQC_T: 91.08203
-- response: |-
-    7E8100861827EE08156
+- expected_values:
+    COROLLA_ATF_PAN_T: 20
+    COROLLA_ATF_TQC_T: 91.10547
+  response: |-
+    7E8100861823C00831B
     7E82107F80000000000
-  expected_values:
-    COROLLA_ATF_PAN_T: 86.875
-    COROLLA_ATF_TQC_T: 89.33594
-- response: |-
-    7E8100861827F808409
-    7E82106DD0000000000
-  expected_values:
+- expected_values:
+    COROLLA_ATF_PAN_T: 21.25
+    COROLLA_ATF_TQC_T: 89.99609
+  response: |-
+    7E8100861823D4081FF
+    7E82107B70000000000
+- expected_values:
+    COROLLA_ATF_PAN_T: 26.875
+    COROLLA_ATF_TQC_T: 91.4375
+  response: |-
+    7E81008618242E08370
+    7E82108230000000000
+- expected_values:
+    COROLLA_ATF_PAN_T: 28.75
+    COROLLA_ATF_TQC_T: 89.05469
+  response: |-
+    7E81008618244C0810E
+    7E82107DF0000000000
+- expected_values:
+    COROLLA_ATF_PAN_T: 30.625
+    COROLLA_ATF_TQC_T: 88.66406
+  response: |-
+    7E81008618246A080AA
+    7E82107B70000000000
+- expected_values:
     COROLLA_ATF_PAN_T: 87.5
     COROLLA_ATF_TQC_T: 92.03516
-- response: |-
-    7E81008618280C083AE
-    7E82108B60000000000
-  expected_values:
+  response: |-
+    7E8100861827F808409
+    7E82106DD0000000000
+- expected_values:
     COROLLA_ATF_PAN_T: 88.75
     COROLLA_ATF_TQC_T: 91.67969
-- response: |-
-    7E810086182816082F9
-    7E82107F80000000000
-  expected_values:
-    COROLLA_ATF_PAN_T: 89.375
-    COROLLA_ATF_TQC_T: 90.97266
-- response: |-
-    7E81008618281608302
-    7E82107F80000000000
-  expected_values:
+  response: |-
+    7E81008618280C083AE
+    7E82108B60000000000
+- expected_values:
     COROLLA_ATF_PAN_T: 89.375
     COROLLA_ATF_TQC_T: 91.00781
-- response: |-
-    7E810086182820082C0
+  response: |-
+    7E81008618281608302
     7E82107F80000000000
-  expected_values:
+- expected_values:
     COROLLA_ATF_PAN_T: 90
     COROLLA_ATF_TQC_T: 90.75
+  response: |-
+    7E810086182820082C0
+    7E82107F80000000000
