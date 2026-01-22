@@ -1,11 +1,29 @@
 command_id: 7E0.7E8.2128|f=2019-
 test_cases:
-- response: 7E805612800FCD4
-  expected_values:
+- expected_values:
     COROLLA_ODO: 64724
-- response: 7E805612800FD01
-  expected_values:
+  response: 7E805612800FCD4
+- expected_values:
+    COROLLA_ODO: 64751
+  response: 7E805612800FCEF
+- expected_values:
     COROLLA_ODO: 64769
-- response: 7E805612800FD03
-  expected_values:
+  response: 7E805612800FD01
+- expected_values:
     COROLLA_ODO: 64771
+  response: 7E805612800FD03
+- expected_values:
+    COROLLA_ODO: 65384
+  response: 7E805612800FF68
+- expected_values:
+    COROLLA_ODO: 65836
+  response: 7E805612801012C
+- expected_values:
+    COROLLA_ODO: 67146
+  response: 7E805612801064A
+- expected_values:
+    COROLLA_ODO: 67313
+  response: 7E80561280106F1
+- expected_values:
+    COROLLA_ODO: 68190
+  response: 7E8056128010A5E
