@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2182
+test_cases:
+- expected_values:
+    COROLLA_ATF_PAN_T: 47.5
+    COROLLA_ATF_TQC_T: 90.98438
+  response: |-
+    7E810086182578082FC
+    7E82107EF0000000000
