@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Corolla"
+
 generations:
   - name: "First Generation (E10)"
     start_year: 1966
