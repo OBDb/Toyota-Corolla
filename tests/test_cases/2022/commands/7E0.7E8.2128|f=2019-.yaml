@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     COROLLA_ODO: 68190
   response: 7E8056128010A5E
+- expected_values:
+    COROLLA_ODO: 68789
+  response: 7E8056128010CB5
