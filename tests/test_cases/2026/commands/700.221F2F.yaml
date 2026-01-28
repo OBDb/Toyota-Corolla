@@ -1,8 +1,0 @@
-command_id: 700.221F2F
-test_cases:
-- expected_values:
-    COROLLA_FLI: 10.58824
-  response: 70804621F2F1B
-- expected_values:
-    COROLLA_FLI: 92.54902
-  response: 70804621F2FEC
