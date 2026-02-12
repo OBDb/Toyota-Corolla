@@ -1,6 +1,30 @@
 command_id: 7C0.7C8.2129|f=-2019
 test_cases:
 - expected_values:
+    COROLLA_FLI_VOL: 27.5
+  response: 7C803612937
+- expected_values:
+    COROLLA_FLI_VOL: 28.5
+  response: 7C803612939
+- expected_values:
+    COROLLA_FLI_VOL: 29
+  response: 7C80361293A
+- expected_values:
+    COROLLA_FLI_VOL: 30
+  response: 7C80361293C
+- expected_values:
+    COROLLA_FLI_VOL: 31
+  response: 7C80361293E
+- expected_values:
+    COROLLA_FLI_VOL: 31.5
+  response: 7C80361293F
+- expected_values:
+    COROLLA_FLI_VOL: 32.5
+  response: 7C803612941
+- expected_values:
+    COROLLA_FLI_VOL: 33.5
+  response: 7C803612943
+- expected_values:
     COROLLA_FLI_VOL: 34
   response: 7C803612944
 - expected_values:
