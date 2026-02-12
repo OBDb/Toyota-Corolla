@@ -5,9 +5,9 @@ test_cases:
     COROLLA_GEAR_LOCKUP: 0
   response: '7E8056185010000'
 - expected_values:
-    COROLLA_GEAR: 2
+    COROLLA_GEAR: 1
     COROLLA_GEAR_LOCKUP: 0
-  response: 7E805618502208A
+  response: 7E805618501008A
 - expected_values:
     COROLLA_GEAR: 3
     COROLLA_GEAR_LOCKUP: 1
