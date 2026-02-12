@@ -7,6 +7,12 @@ test_cases:
     COROLLA_YAW_RATE: 0
   response: 7B80761470000808001
 - expected_values:
+    COROLLA_LAT_G: 0
+    COROLLA_LNG_G: -0.02
+    COROLLA_STEER_ANGLE: 0.1
+    COROLLA_YAW_RATE: 0
+  response: 7B807614700FF808001
+- expected_values:
     COROLLA_LAT_G: 0.02
     COROLLA_LNG_G: 0.02
     COROLLA_STEER_ANGLE: -0.1
@@ -24,12 +30,6 @@ test_cases:
     COROLLA_STEER_ANGLE: -60.4
     COROLLA_YAW_RATE: -10
   response: 7B8076147F804767DA4
-- expected_values:
-    COROLLA_LAT_G: -0.06
-    COROLLA_LNG_G: -0.02
-    COROLLA_STEER_ANGLE: -83.9
-    COROLLA_YAW_RATE: -2
-  response: 7B8076147FDFF7E7CB9
 - expected_values:
     COROLLA_LAT_G: -0.02
     COROLLA_LNG_G: 0
