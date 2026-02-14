@@ -51,6 +51,6 @@ test_cases:
 - expected_values:
     COROLLA_LAT_G: -0.02
     COROLLA_LNG_G: 0
-    COROLLA_STEER_ANGLE: -10.5
+    COROLLA_STEER_ANGLE: -23.9
     COROLLA_YAW_RATE: 0
-  response: 7B8076147FF00807F97
+  response: 7B8076147FF00807F11
