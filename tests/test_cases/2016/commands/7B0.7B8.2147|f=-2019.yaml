@@ -3,9 +3,15 @@ test_cases:
 - expected_values:
     COROLLA_LAT_G: 0
     COROLLA_LNG_G: 0
-    COROLLA_STEER_ANGLE: -1.5
+    COROLLA_STEER_ANGLE: -38.3
+    COROLLA_YAW_RATE: -1
+  response: 7B807614700007F7E81
+- expected_values:
+    COROLLA_LAT_G: 0
+    COROLLA_LNG_G: 0.02
+    COROLLA_STEER_ANGLE: -0.1
     COROLLA_YAW_RATE: 0
-  response: 7B80761470000807FF1
+  response: 7B80761470001807FFF
 - expected_values:
     COROLLA_LAT_G: 0
     COROLLA_LNG_G: -0.12
@@ -14,22 +20,16 @@ test_cases:
   response: 7B807614700FA808000
 - expected_values:
     COROLLA_LAT_G: 0
+    COROLLA_LNG_G: -0.1
+    COROLLA_STEER_ANGLE: 453.1
+    COROLLA_YAW_RATE: 4
+  response: 7B807614700FB8491B3
+- expected_values:
+    COROLLA_LAT_G: 0
     COROLLA_LNG_G: -0.02
     COROLLA_STEER_ANGLE: -12
     COROLLA_YAW_RATE: 0
   response: 7B807614700FF807F88
-- expected_values:
-    COROLLA_LAT_G: 0
-    COROLLA_LNG_G: -0.02
-    COROLLA_STEER_ANGLE: -0.1
-    COROLLA_YAW_RATE: 0
-  response: 7B807614700FF807FFF
-- expected_values:
-    COROLLA_LAT_G: 0.04
-    COROLLA_LNG_G: -0.12
-    COROLLA_STEER_ANGLE: 326.6
-    COROLLA_YAW_RATE: 9
-  response: 7B807614702FA898CC2
 - expected_values:
     COROLLA_LAT_G: 0.42
     COROLLA_LNG_G: 0
