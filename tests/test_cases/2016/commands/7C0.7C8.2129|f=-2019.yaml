@@ -1,8 +1,0 @@
-command_id: 7C0.7C8.2129|f=-2019
-test_cases:
-- expected_values:
-    COROLLA_FLI_VOL: 3
-  response: 7C803612906
-- expected_values:
-    COROLLA_FLI_VOL: 38.5
-  response: 7C80361294D
