@@ -4,5 +4,5 @@ test_cases:
     TP_B: 48.23529
   response: 7E80341477B
 - expected_values:
-    TP_B: 58.82353
-  response: '7E803414796'
+    TP_B: 61.17647
+  response: 7E80341479C
