@@ -11,25 +11,25 @@
   "signals": [
     {"id": "COROLLA_TF1_PAN", "path": "Engine", "fmt": { "len": 16, "max": 350, "min": -40, "mul": 0.00703125, "add": -40, "unit": "fahrenheit" }, "name": "Transmission fluid pan temperature"}
   ]},
-{ "hdr": "7B0", "rax": "7B8", "cmd": {"21": "03"}, "freq": 0.25, "filter": { "to": 2018 }, "dbgfilter": { "to": 2007, "years": [2010], "from": 2018 },
+{ "hdr": "7B0", "rax": "7B8", "cmd": {"21": "03"}, "freq": 0.25, "filter": { "to": 2018 }, "dbgfilter": { "to": 2007, "from": 2018 },
   "signals": [
     {"id": "COROLLA_TIRE_FR_SPD", "path": "Movement", "fmt": {           "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
     {"id": "COROLLA_TIRE_FL_SPD", "path": "Movement", "fmt": {"bix": 8,  "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
     {"id": "COROLLA_TIRE_RR_SPD", "path": "Movement", "fmt": {"bix": 16, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"},
     {"id": "COROLLA_TIRE_RL_SPD", "path": "Movement", "fmt": {"bix": 24, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7B0", "rax": "7B8", "cmd": {"21": "47"}, "freq": 0.25, "filter": { "to": 2018 }, "dbgfilter": { "to": 2008, "years": [2010], "from": 2018 },
+{ "hdr": "7B0", "rax": "7B8", "cmd": {"21": "47"}, "freq": 0.25, "filter": { "to": 2018 }, "dbgfilter": { "to": 2008, "from": 2018 },
   "signals": [
     {"id": "COROLLA_LAT_G",       "path": "Orientation", "fmt": {           "len": 8,  "max": 2.5,    "min": -2.5,  "div": 50,                 "sign": true, "unit": "gravity" }, "name": "Lateral g"},
     {"id": "COROLLA_LNG_G",       "path": "Orientation", "fmt": {"bix": 8,  "len": 8,  "max": 2.5,    "min": -2.5,  "div": 50,                 "sign": true, "unit": "gravity" }, "name": "Longitudinal g"},
     {"id": "COROLLA_YAW_RATE",    "path": "Orientation", "fmt": {"bix": 16, "len": 8,  "max": 127,    "min": -128,             "add": -128,                  "unit": "degrees" }, "name": "Yaw rate value"},
     {"id": "COROLLA_STEER_ANGLE", "path": "Control",     "fmt": {"bix": 24, "len": 16, "max": 3276.7, "min": -3276, "div": 10, "add": -3276.8,               "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 1, "filter": { "to": 2018 }, "dbgfilter": { "to": 2007, "years": [2010], "from": 2018 },
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"21": "29"}, "freq": 1, "filter": { "to": 2018 }, "dbgfilter": { "to": 2007, "from": 2018 },
   "signals": [
     {"id": "COROLLA_FLI_VOL", "path": "Fuel", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "21"}, "freq": 5, "filter": { "to": 2018 }, "dbgfilter": { "to": 2007, "years": [2010, 2015], "from": 2017 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "21"}, "freq": 5, "filter": { "to": 2018 }, "dbgfilter": { "to": 2007, "years": [2015], "from": 2017 },
   "signals": [
     {"id": "COROLLA_CC_S", "path": "Cruise control", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Cruise control speed"}
   ]},
