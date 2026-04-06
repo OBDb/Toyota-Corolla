@@ -4,5 +4,5 @@ test_cases:
     COROLLA_FLI: 5.88235
   response: 70804621F2F0F
 - expected_values:
-    COROLLA_FLI: 92.54902
-  response: 70804621F2FEC
+    COROLLA_FLI: 94.90196
+  response: 70804621F2FF2
