@@ -7,7 +7,7 @@
   "signals": [
     {"id": "COROLLA_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "701", "rax": "709", "cmd": {"22": "1627"}, "freq": 1, "filter": { "from": 2019 }, "dbgfilter": { "to": 2019, "years": [2022, 2023], "from": 2025 },
+{ "hdr": "701", "rax": "709", "cmd": {"22": "1627"}, "freq": 1, "filter": { "from": 2019 }, "dbgfilter": { "to": 2019, "years": [2023], "from": 2025 },
   "signals": [
     {"id": "COROLLA_TF1_PAN", "path": "Engine", "fmt": { "len": 16, "max": 350, "min": -40, "mul": 0.00703125, "add": -40, "unit": "fahrenheit" }, "name": "Transmission fluid pan temperature"}
   ]},
