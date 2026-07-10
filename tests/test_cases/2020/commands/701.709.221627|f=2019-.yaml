@@ -4,6 +4,9 @@ test_cases:
     COROLLA_TF1_PAN: 91.625
   response: '709056216274920'
 - expected_values:
+    COROLLA_TF1_PAN: 102.875
+  response: 709056216274F60
+- expected_values:
     COROLLA_TF1_PAN: 146.75
   response: 7090562162767C0
 - expected_values:
