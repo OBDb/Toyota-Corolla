@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.2185
+test_cases:
+- expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+  response: '7E8056185010000'
+- expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 0
+  response: 7E805618501008A
+- expected_values:
+    COROLLA_GEAR: 1
+    COROLLA_GEAR_LOCKUP: 1
+  response: 7E805618501A08A
+- expected_values:
+    COROLLA_GEAR: 5
+    COROLLA_GEAR_LOCKUP: 0
+  response: '7E8056185052082'
