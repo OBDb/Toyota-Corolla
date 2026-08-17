@@ -6,6 +6,15 @@ test_cases:
     2210CD1
     708056210CD8C42
 - expected_values:
+    COROLLA_LFPS: -2739.9
+  response: '708 05 62 10 CD 94 F9 '
+- expected_values:
+    COROLLA_LFPS: -2731.1
+  response: '708 05 62 10 CD 95 51 '
+- expected_values:
+    COROLLA_LFPS: -2730.1
+  response: '708 05 62 10 CD 95 5B '
+- expected_values:
     COROLLA_LFPS: -3056.5
   response: 708056210CD889B
 - expected_values:
