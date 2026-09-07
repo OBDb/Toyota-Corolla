@@ -40,6 +40,7 @@ supported_commands_by_ecu:
   - 0147:TP_B
   - 7E0.0105:ECT
   - 7E0.011F:RUNTM
+  - 7E0.0131:CLR_DIST
   - 7E0.7E8.2121|f=-2018:COROLLA_CC_S
 unsupported_commands_by_ecu:
   "700":
