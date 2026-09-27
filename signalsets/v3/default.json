@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" }
+  ],
+  "commands": [
 { "hdr": "700", "rax": "708", "cmd": {"22": "10CD"}, "freq": 1, "filter": { "from": 2018 }, "dbgfilter": { "to": 2018, "from": 2027 },
   "signals": [
     {"id": "COROLLA_LFPS", "path": "Fuel", "fmt": { "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "kilopascal" }, "name": "Low fuel pressure sensor"}
