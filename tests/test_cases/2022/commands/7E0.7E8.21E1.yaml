@@ -1,0 +1,47 @@
+command_id: 7E0.7E8.21E1
+test_cases:
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100001B1B
+    7E82100000388000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100001B1B
+    7E821000004A3000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100001B1B
+    7E821000005C0000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100001B1B
+    7E821000006DD000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100001B1B
+    7E82100000857000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100001B1B
+    7E82100000956000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100001B1B
+    7E82100000ACC000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100001B1B
+    7E82100000BF7000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100001B1B
+    7E82100000D08000000
