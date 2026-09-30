@@ -1,0 +1,26 @@
+command_id: 700.708.22108A
+test_cases:
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: -1.04159
+  response: 7080562108A7F5D
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 13.33492
+  response: 7080562108A8891
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 14.4516
+  response: 7080562108A8948
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 18.60712
+  response: 7080562108A8BF1
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 19.18682
+  response: 7080562108A8C50
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 19.36988
+  response: 7080562108A8C6E
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 22.56737
+  response: 7080562108A8E7A
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 23.73897
+  response: 7080562108A8F3A
