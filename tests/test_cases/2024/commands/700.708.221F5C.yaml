@@ -4,23 +4,5 @@ test_cases:
     COROLLA_EOT_V2: 25
   response: 70804621F5C41
 - expected_values:
-    COROLLA_EOT_V2: 32
-  response: 70804621F5C48
-- expected_values:
-    COROLLA_EOT_V2: 37
-  response: 70804621F5C4D
-- expected_values:
-    COROLLA_EOT_V2: 45
-  response: 70804621F5C55
-- expected_values:
-    COROLLA_EOT_V2: 52
-  response: 70804621F5C5C
-- expected_values:
-    COROLLA_EOT_V2: 57
-  response: 70804621F5C61
-- expected_values:
-    COROLLA_EOT_V2: 58
-  response: 70804621F5C62
-- expected_values:
-    COROLLA_EOT_V2: 61
-  response: 70804621F5C65
+    COROLLA_EOT_V2: 72
+  response: 70804621F5C70

@@ -1,0 +1,29 @@
+command_id: 700.708.221F5C
+test_cases:
+- expected_values:
+    COROLLA_EOT_V2: 83
+  response: 70804621F5C7B
+- expected_values:
+    COROLLA_EOT_V2: 86
+  response: 70804621F5C7E
+- expected_values:
+    COROLLA_EOT_V2: 87
+  response: 70804621F5C7F
+- expected_values:
+    COROLLA_EOT_V2: 88
+  response: 70804621F5C80
+- expected_values:
+    COROLLA_EOT_V2: 89
+  response: 70804621F5C81
+- expected_values:
+    COROLLA_EOT_V2: 90
+  response: 70804621F5C82
+- expected_values:
+    COROLLA_EOT_V2: 91
+  response: 70804621F5C83
+- expected_values:
+    COROLLA_EOT_V2: 92
+  response: 70804621F5C84
+- expected_values:
+    COROLLA_EOT_V2: 93
+  response: 70804621F5C85

@@ -1,0 +1,11 @@
+command_id: 700.708.22106A
+test_cases:
+- expected_values:
+    COROLLA_FUEL_PUMP_DUTY_RATIO: 202.68293
+  response: 7080562106A0CFC
+- expected_values:
+    COROLLA_FUEL_PUMP_DUTY_RATIO: 233.96341
+  response: 7080562106A0EFD
+- expected_values:
+    COROLLA_FUEL_PUMP_DUTY_RATIO: 249.93902
+  response: 7080562106A1003
