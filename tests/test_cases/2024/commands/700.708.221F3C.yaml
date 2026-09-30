@@ -1,0 +1,11 @@
+command_id: 700.708.221F3C
+test_cases:
+- expected_values:
+    COROLLA_CAT_T_11: 338.7
+  response: 70805621F3C0ECB
+- expected_values:
+    COROLLA_CAT_T_11: 456.8
+  response: 70805621F3C1368
+- expected_values:
+    COROLLA_CAT_T_11: 476
+  response: 70805621F3C1428

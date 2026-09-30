@@ -1,28 +1,28 @@
 command_id: 700.708.2210CD|f=2018-
 test_cases:
 - expected_values:
-    COROLLA_LFPS: -2963
+    COROLLA_LFPS: 313.8
   response: |-
     2210CD1
     708056210CD8C42
 - expected_values:
-    COROLLA_LFPS: -2739.9
+    COROLLA_LFPS: 536.9
   response: '708 05 62 10 CD 94 F9 '
 - expected_values:
-    COROLLA_LFPS: -2731.1
+    COROLLA_LFPS: 545.7
   response: '708 05 62 10 CD 95 51 '
 - expected_values:
-    COROLLA_LFPS: -2730.1
+    COROLLA_LFPS: 546.7
   response: '708 05 62 10 CD 95 5B '
 - expected_values:
-    COROLLA_LFPS: -3056.5
+    COROLLA_LFPS: 220.3
   response: 708056210CD889B
 - expected_values:
-    COROLLA_LFPS: -2995.2
+    COROLLA_LFPS: 281.6
   response: 708056210CD8B00
 - expected_values:
-    COROLLA_LFPS: -2892.9
+    COROLLA_LFPS: 383.9
   response: 708056210CD8EFF
 - expected_values:
-    COROLLA_LFPS: -2608
+    COROLLA_LFPS: 668.8
   response: 708056210CD9A20

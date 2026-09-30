@@ -1,0 +1,11 @@
+command_id: 700.708.221087
+test_cases:
+- expected_values:
+    COROLLA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0
+  response: '708056210870000'
+- expected_values:
+    COROLLA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 25.61162
+  response: 708056210870A3F
+- expected_values:
+    COROLLA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 38.66642
+  response: 708056210870F78

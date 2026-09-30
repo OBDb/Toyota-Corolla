@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.221F9A
+test_cases:
+- expected_values:
+    COROLLA_HVBAT_C: -1.7
+    COROLLA_HVBAT_V: 201
+  response: |-
+    7DA1009621F9A0E0032
+    7DA2140FFEF00000000
+- expected_values:
+    COROLLA_HVBAT_C: -25.6
+    COROLLA_HVBAT_V: 205
+  response: |-
+    7DA1009621F9A0E0033
+    7DA2140FF0000000000

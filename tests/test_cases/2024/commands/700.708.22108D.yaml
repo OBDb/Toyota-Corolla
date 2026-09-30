@@ -1,0 +1,11 @@
+command_id: 700.708.22108D
+test_cases:
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 35.43944
+  response: 7080562108D0E2D
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 35.4785
+  response: 7080562108D0E31
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 35.5371
+  response: 7080562108D0E37
