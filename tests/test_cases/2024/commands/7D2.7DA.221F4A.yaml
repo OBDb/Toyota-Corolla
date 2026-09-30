@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F4A
+test_cases:
+- expected_values:
+    COROLLA_ACC_PEDAL_POS_2: 50.19608
+  response: 7DA04621F4A80
+- expected_values:
+    COROLLA_ACC_PEDAL_POS_2: 53.72549
+  response: 7DA04621F4A89

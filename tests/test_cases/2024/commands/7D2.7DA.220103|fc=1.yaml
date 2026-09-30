@@ -1,0 +1,5 @@
+command_id: 7D2.7DA.220103|fc=1
+test_cases:
+- expected_values:
+    COROLLA_ODO_V2_V2: 46272
+  response: 7DA076201030100B4C0
