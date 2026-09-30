@@ -4,8 +4,8 @@ test_cases:
     COROLLA_INJECTOR_PORT: 0
   response: '708056210180000'
 - expected_values:
-    COROLLA_INJECTOR_PORT: 4.604
-  response: 7080562101811FC
+    COROLLA_INJECTOR_PORT: 4.093
+  response: 708056210180FFD
 - expected_values:
     COROLLA_INJECTOR_PORT: 9.386
   response: 7080562101824AA
