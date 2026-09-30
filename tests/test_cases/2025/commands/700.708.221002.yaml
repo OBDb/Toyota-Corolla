@@ -1,0 +1,11 @@
+command_id: 700.708.221002
+test_cases:
+- expected_values:
+    COROLLA_12V_V: 13.61325
+  response: 708056210022B90
+- expected_values:
+    COROLLA_12V_V: 13.73532
+  response: 708056210022BF4
+- expected_values:
+    COROLLA_12V_V: 13.75973
+  response: 708056210022C08
