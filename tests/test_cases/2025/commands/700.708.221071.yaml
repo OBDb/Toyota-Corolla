@@ -1,0 +1,17 @@
+command_id: 700.708.221071
+test_cases:
+- expected_values:
+    COROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 0
+  response: '708056210710000'
+- expected_values:
+    COROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 18.44466
+  response: '708056210710761'
+- expected_values:
+    COROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 21.77427
+  response: 7080562107108B6
+- expected_values:
+    COROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 37.49471
+  response: 708056210710F00
+- expected_values:
+    COROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 39.99436
+  response: '708056210711000'

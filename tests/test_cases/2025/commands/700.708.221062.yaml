@@ -1,0 +1,11 @@
+command_id: 700.708.221062
+test_cases:
+- expected_values:
+    COROLLA_EXHAUST_VVT_OCV_CONTROL_DUTY: 15.11864
+  response: 7080562106209AD
+- expected_values:
+    COROLLA_EXHAUST_VVT_OCV_CONTROL_DUTY: 24.76234
+  response: 708056210620FD9
+- expected_values:
+    COROLLA_EXHAUST_VVT_OCV_CONTROL_DUTY: 59.45525
+  response: 70805621062260D

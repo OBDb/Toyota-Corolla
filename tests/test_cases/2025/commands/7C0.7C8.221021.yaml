@@ -1,0 +1,17 @@
+command_id: 7C0.7C8.221021
+test_cases:
+- expected_values:
+    COROLLA_BATTERY_VOLTAGE: 0
+  response: 7C80462102100
+- expected_values:
+    COROLLA_BATTERY_VOLTAGE: 13.4
+  response: 7C80462102186
+- expected_values:
+    COROLLA_BATTERY_VOLTAGE: 13.5
+  response: 7C80462102187
+- expected_values:
+    COROLLA_BATTERY_VOLTAGE: 13.6
+  response: 7C80462102188
+- expected_values:
+    COROLLA_BATTERY_VOLTAGE: 13.7
+  response: 7C80462102189
