@@ -1,0 +1,17 @@
+command_id: 700.708.221019
+test_cases:
+- expected_values:
+    COROLLA_INJECTION: DIRECT
+  response: '7080762101901358000'
+- expected_values:
+    COROLLA_INJECTION: DIRECT
+  response: 7080762101901F38000
+- expected_values:
+    COROLLA_INJECTION: DIRECT
+  response: 7080762101901F78000
+- expected_values:
+    COROLLA_INJECTION: BOTH
+  response: '7080762101902038000'
+- expected_values:
+    COROLLA_INJECTION: BOTH
+  response: 70807621019026C8BB8
