@@ -1,0 +1,8 @@
+command_id: 700.708.221017
+test_cases:
+- expected_values:
+    COROLLA_INJ_VOL: 0.8
+  response: 708056210170A00
+- expected_values:
+    COROLLA_INJ_VOL: 2.15812
+  response: 708056210171AFA
