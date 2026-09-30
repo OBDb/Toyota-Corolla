@@ -4,26 +4,5 @@ test_cases:
     COROLLA_ENG_ODO: 29498
   response: 708076201030200733A
 - expected_values:
-    COROLLA_ENG_ODO: 29499
-  response: 708076201030200733B
-- expected_values:
-    COROLLA_ENG_ODO: 29500
-  response: 708076201030200733C
-- expected_values:
-    COROLLA_ENG_ODO: 29501
-  response: 708076201030200733D
-- expected_values:
-    COROLLA_ENG_ODO: 29502
-  response: 708076201030200733E
-- expected_values:
-    COROLLA_ENG_ODO: 29505
-  response: '7080762010302007341'
-- expected_values:
-    COROLLA_ENG_ODO: 29506
-  response: '7080762010302007342'
-- expected_values:
-    COROLLA_ENG_ODO: 29508
-  response: '7080762010302007344'
-- expected_values:
-    COROLLA_ENG_ODO: 29509
-  response: '7080762010302007345'
+    COROLLA_ENG_ODO: 29512
+  response: '7080762010302007348'

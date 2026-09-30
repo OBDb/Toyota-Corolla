@@ -4,5 +4,5 @@ test_cases:
     COROLLA_EOT_V2: 27
   response: 70804621F5C43
 - expected_values:
-    COROLLA_EOT_V2: 93
-  response: 70804621F5C85
+    COROLLA_EOT_V2: 96
+  response: 70804621F5C88

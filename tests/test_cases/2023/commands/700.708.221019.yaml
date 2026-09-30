@@ -5,10 +5,13 @@ test_cases:
   response: '7080762101901368000'
 - expected_values:
     COROLLA_INJECTION: DIRECT
+  response: 70807621019014B87D0
+- expected_values:
+    COROLLA_INJECTION: DIRECT
   response: 7080762101901FC8000
 - expected_values:
     COROLLA_INJECTION: BOTH
   response: '7080762101902038000'
 - expected_values:
     COROLLA_INJECTION: BOTH
-  response: 7080762101902238BB8
+  response: 7080762101902088BB8
