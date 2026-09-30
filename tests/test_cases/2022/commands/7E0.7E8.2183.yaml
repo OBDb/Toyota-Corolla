@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.2183
+test_cases:
+- expected_values:
+    COROLLA_G_SENS_CALIBRATION: 1
+    COROLLA_G_SENS_LEARNING: 2.48657
+    COROLLA_TRANS_OIL_PRESS: 1
+  response: |-
+    7E8100861836007F503
+    7E821BF000000000000
