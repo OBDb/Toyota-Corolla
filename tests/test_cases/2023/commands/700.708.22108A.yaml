@@ -1,0 +1,14 @@
+command_id: 700.708.22108A
+test_cases:
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: -23.27758
+  response: 7080562108A7121
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 10.88188
+  response: 7080562108A86FF
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 15.58049
+  response: 7080562108A8A01
+- expected_values:
+    COROLLA_VVT_IE_DUTY_RATIO_BANK_1: 48.52563
+  response: 7080562108A9F18

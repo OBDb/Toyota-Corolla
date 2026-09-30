@@ -1,0 +1,20 @@
+command_id: 700.708.22108D
+test_cases:
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 38.92577
+  response: 7080562108D0F92
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 39.01366
+  response: 7080562108D0F9B
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 39.02342
+  response: 7080562108D0F9C
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 39.04295
+  response: 7080562108D0F9E
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 39.07225
+  response: 7080562108D0FA1
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 39.16014
+  response: 7080562108D0FAA

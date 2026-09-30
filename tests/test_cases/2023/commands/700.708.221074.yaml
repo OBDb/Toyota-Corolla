@@ -1,0 +1,14 @@
+command_id: 700.708.221074
+test_cases:
+- expected_values:
+    COROLLA_EOP_2: 60.46875
+  response: '708056210740306'
+- expected_values:
+    COROLLA_EOP_2: 99.53125
+  response: 7080562107404FA
+- expected_values:
+    COROLLA_EOP_2: 120.07812
+  response: '708056210740601'
+- expected_values:
+    COROLLA_EOP_2: 224.0625
+  response: 708056210740B34
