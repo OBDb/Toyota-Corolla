@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F5B|fc=1
+test_cases:
+- expected_values:
+    COROLLA_SOC: 36.07843
+  response: 7DA04621F5B5C
+- expected_values:
+    COROLLA_SOC: 36.47059
+  response: 7DA04621F5B5D

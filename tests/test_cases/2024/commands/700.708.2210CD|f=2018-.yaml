@@ -1,14 +1,14 @@
 command_id: 700.708.2210CD|f=2018-
 test_cases:
 - expected_values:
-    COROLLA_LFPS: -3022.9
+    COROLLA_LFPS: 253.9
   response: 708056210CD89EB
 - expected_values:
-    COROLLA_LFPS: -2995.2
+    COROLLA_LFPS: 281.6
   response: 708056210CD8B00
 - expected_values:
-    COROLLA_LFPS: -2969.8
+    COROLLA_LFPS: 307
   response: 708056210CD8BFE
 - expected_values:
-    COROLLA_LFPS: -2625.6
+    COROLLA_LFPS: 651.2
   response: 708056210CD9970
