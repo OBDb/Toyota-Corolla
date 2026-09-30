@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.21D9
+test_cases:
+- expected_values:
+    COROLLA_ATF_T_V_14: -20
+    COROLLA_ATF_T_V_21: 28
+  response: 7E80761D914000044C0

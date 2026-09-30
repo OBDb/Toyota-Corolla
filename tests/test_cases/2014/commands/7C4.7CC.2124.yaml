@@ -4,5 +4,5 @@ test_cases:
     COROLLA_SOLAR_DRIVER: 4
   response: 7CC03612404
 - expected_values:
-    COROLLA_SOLAR_DRIVER: 49
-  response: 7CC03612431
+    COROLLA_SOLAR_DRIVER: 101
+  response: 7CC03612465

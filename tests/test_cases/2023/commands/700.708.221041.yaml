@@ -1,6 +1,10 @@
 command_id: 700.708.221041
 test_cases:
 - expected_values:
+    COROLLA_ECT_IGN: 26.875
+    COROLLA_ECT_INIT: 26.875
+  response: 708056210416B6B
+- expected_values:
     COROLLA_ECT_IGN: 88.75
     COROLLA_ECT_INIT: 88.75
   response: 70805621041CECE

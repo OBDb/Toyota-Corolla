@@ -4,8 +4,8 @@ test_cases:
     COROLLA_INJ_VOL: 0
   response: '708056210170000'
 - expected_values:
-    COROLLA_INJ_VOL: 1.59812
-  response: 7080562101713FA
+    COROLLA_INJ_VOL: 1.03969
+  response: 708056210170CFF
 - expected_values:
-    COROLLA_INJ_VOL: 3.52656
-  response: 708056210172C15
+    COROLLA_INJ_VOL: 4.41281
+  response: '708056210173729'
