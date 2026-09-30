@@ -1,0 +1,17 @@
+command_id: 700.708.221089
+test_cases:
+- expected_values:
+    COROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 48.83497
+  response: 708056210891F43
+- expected_values:
+    COROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 49.36585
+  response: 708056210891F9A
+- expected_values:
+    COROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 49.88453
+  response: 708056210891FEF
+- expected_values:
+    COROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 49.93334
+  response: 708056210891FF7
+- expected_values:
+    COROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 50.42151
+  response: '708056210892047'
