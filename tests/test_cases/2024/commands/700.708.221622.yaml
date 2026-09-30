@@ -4,8 +4,11 @@ test_cases:
     COROLLA_TRANS_SHIFT_ST_RAT: 0.46238
   response: '708056216220766'
 - expected_values:
-    COROLLA_TRANS_SHIFT_ST_RAT: 1.43206
-  response: 7080562162216EA
+    COROLLA_TRANS_SHIFT_ST_RAT: 0.56321
+  response: '708056216220903'
+- expected_values:
+    COROLLA_TRANS_SHIFT_ST_RAT: 0.80856
+  response: 708056216220CF0
 - expected_values:
     COROLLA_TRANS_SHIFT_ST_RAT: 3.37582
   response: '708056216223604'

@@ -4,8 +4,8 @@ test_cases:
     COROLLA_ENG_ODO: 57664
   response: '708076201030200E140'
 - expected_values:
-    COROLLA_ENG_ODO: 57683
-  response: '708076201030200E153'
+    COROLLA_ENG_ODO: 57707
+  response: 708076201030200E16B
 - expected_values:
     COROLLA_ENG_ODO: 93956
   response: 7080762010302016F04
