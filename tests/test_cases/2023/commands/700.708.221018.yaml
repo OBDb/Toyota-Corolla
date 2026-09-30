@@ -1,14 +1,11 @@
 command_id: 700.708.221018
 test_cases:
 - expected_values:
-    COROLLA_INJECTOR_PORT: 2.58
-  response: 708056210180A14
-- expected_values:
-    COROLLA_INJECTOR_PORT: 3.845
-  response: 708056210180F05
+    COROLLA_INJECTOR_PORT: 0
+  response: '708056210180000'
 - expected_values:
     COROLLA_INJECTOR_PORT: 4.604
   response: 7080562101811FC
 - expected_values:
-    COROLLA_INJECTOR_PORT: 7.154
-  response: 708056210181BF2
+    COROLLA_INJECTOR_PORT: 9.386
+  response: 7080562101824AA

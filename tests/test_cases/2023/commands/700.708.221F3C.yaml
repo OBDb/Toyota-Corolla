@@ -4,11 +4,11 @@ test_cases:
     COROLLA_CAT_T_11: 141.8
   response: 70805621F3C071A
 - expected_values:
-    COROLLA_CAT_T_11: 472.4
-  response: 70805621F3C1404
+    COROLLA_CAT_T_11: 497.5
+  response: 70805621F3C14FF
 - expected_values:
-    COROLLA_CAT_T_11: 625.1
-  response: 70805621F3C19FB
+    COROLLA_CAT_T_11: 497.6
+  response: 70805621F3C1500
 - expected_values:
-    COROLLA_CAT_T_11: 677.9
-  response: 70805621F3C1C0B
+    COROLLA_CAT_T_11: 706.8
+  response: 70805621F3C1D2C

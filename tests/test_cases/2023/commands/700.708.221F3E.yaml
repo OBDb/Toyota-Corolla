@@ -7,8 +7,8 @@ test_cases:
     COROLLA_CAT_T_12: 446.4
   response: 70805621F3E1300
 - expected_values:
-    COROLLA_CAT_T_12: 497.4
-  response: 70805621F3E14FE
+    COROLLA_CAT_T_12: 548.7
+  response: 70805621F3E16FF
 - expected_values:
-    COROLLA_CAT_T_12: 553
-  response: 70805621F3E172A
+    COROLLA_CAT_T_12: 609.2
+  response: 70805621F3E195C

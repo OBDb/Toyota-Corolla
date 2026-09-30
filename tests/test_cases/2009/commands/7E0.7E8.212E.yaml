@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.212E
+test_cases:
+- expected_values:
+    COROLLA_EVAP_PURGE_DUTY_7E0: 0
+  response: 7E803612E00

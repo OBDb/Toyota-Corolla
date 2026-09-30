@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     COROLLA_COOLING_FAN_DUTY_RATIO: 38
   response: 708046210464C
+- expected_values:
+    COROLLA_COOLING_FAN_DUTY_RATIO: 45
+  response: 708046210465A
+- expected_values:
+    COROLLA_COOLING_FAN_DUTY_RATIO: 49
+  response: '7080462104662'

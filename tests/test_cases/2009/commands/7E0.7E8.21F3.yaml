@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.21F3
+test_cases:
+- expected_values:
+    COROLLA_FUEL_INJ_TIM: 2.176
+    COROLLA_INJ_WIDTH: 3.712
+  response: |-
+    7E8101061F3110A1D80
+    7E821FFFFFFFFFFFFFF
+    7E822FFFFFF00000000
