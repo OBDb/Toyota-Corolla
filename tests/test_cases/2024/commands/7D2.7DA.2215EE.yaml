@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.2215EE
+test_cases:
+- expected_values:
+    COROLLA_12V_V_7D2: 13.84962
+  response: 7DA056215EE2C7A
+- expected_values:
+    COROLLA_12V_V_7D2: 13.84962
+  response: 7DA056215EE2C7E

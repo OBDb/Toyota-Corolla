@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.2210A1
+test_cases:
+- expected_values:
+    COROLLA_RPM: 2268
+    COROLLA_TQ: 42.375
+  response: |-
+    7DA100C6210A188DC81
+    7DA2148030181530400
+- expected_values:
+    COROLLA_RPM: 4335
+    COROLLA_TQ: 3.625
+  response: |-
+    7DA100C6210A190EF80
+    7DA21220301801D0400

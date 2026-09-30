@@ -1,0 +1,11 @@
+command_id: 700.708.222827
+test_cases:
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 1120
+  response: 708046228271C
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 1960
+  response: '7080462282731'
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 2000
+  response: '7080462282732'

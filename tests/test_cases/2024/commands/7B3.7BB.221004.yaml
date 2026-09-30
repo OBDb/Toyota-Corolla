@@ -1,0 +1,8 @@
+command_id: 7B3.7BB.221004
+test_cases:
+- expected_values:
+    COROLLA_STEERING_ANGLE: -3
+  response: 7BB06621004FFFEFE
+- expected_values:
+    COROLLA_STEERING_ANGLE: -1.5
+  response: 7BB06621004FFFFF9

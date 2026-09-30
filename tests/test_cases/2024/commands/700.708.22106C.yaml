@@ -1,0 +1,8 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    COROLLA_DIST_SINCE_BAT_DISC: 43712
+  response: 7080562106CAAC0
+- expected_values:
+    COROLLA_DIST_SINCE_BAT_DISC: 43713
+  response: 7080562106CAAC1
