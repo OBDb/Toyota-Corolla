@@ -1,0 +1,8 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    COROLLA_ENG_ODO: 93956
+  response: 7080762010302016F04
+- expected_values:
+    COROLLA_ENG_ODO: 93969
+  response: 7080762010302016F11

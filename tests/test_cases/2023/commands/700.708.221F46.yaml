@@ -1,0 +1,8 @@
+command_id: 700.708.221F46
+test_cases:
+- expected_values:
+    COROLLA_AMBIENT_T: 36
+  response: 70804621F464C
+- expected_values:
+    COROLLA_AMBIENT_T: 69
+  response: 70804621F466D

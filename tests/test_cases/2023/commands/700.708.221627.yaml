@@ -1,0 +1,14 @@
+command_id: 700.708.221627
+test_cases:
+- expected_values:
+    COROLLA_ATF_T_PAN_V3: 77.5
+  response: '708056216277580'
+- expected_values:
+    COROLLA_ATF_T_PAN_V3: 80
+  response: '708056216277800'
+- expected_values:
+    COROLLA_ATF_T_PAN_V3: 81.875
+  response: '7080562162779E0'
+- expected_values:
+    COROLLA_ATF_T_PAN_V3: 91.25
+  response: '708056216278340'

@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     COROLLA_INJECTION: BOTH
   response: '7080762101902078000'
+- expected_values:
+    COROLLA_INJECTION: BOTH
+  response: 70807621019021B8000
+- expected_values:
+    COROLLA_INJECTION: BOTH
+  response: 7080762101902CE8000

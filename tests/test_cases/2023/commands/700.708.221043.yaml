@@ -1,0 +1,10 @@
+command_id: 700.708.221043
+test_cases:
+- expected_values:
+    COROLLA_EWP_RPM: 900
+    COROLLA_EWP_TARGET_VSS: 900
+  response: '708056210432424'
+- expected_values:
+    COROLLA_EWP_RPM: 6375
+    COROLLA_EWP_TARGET_VSS: 6375
+  response: 70805621043FFFF

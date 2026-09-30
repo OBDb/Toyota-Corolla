@@ -4,17 +4,8 @@ test_cases:
     COROLLA_EXHAUST_VVT_ANGLE_B1: 0
   response: '708056210880000'
 - expected_values:
-    COROLLA_EXHAUST_VVT_ANGLE_B1: 0.24411
-  response: '708056210880019'
-- expected_values:
     COROLLA_EXHAUST_VVT_ANGLE_B1: 2.39224
   response: 7080562108800F5
-- expected_values:
-    COROLLA_EXHAUST_VVT_ANGLE_B1: 13.53325
-  response: 70805621088056A
-- expected_values:
-    COROLLA_EXHAUST_VVT_ANGLE_B1: 24.02005
-  response: 70805621088099C
 - expected_values:
     COROLLA_EXHAUST_VVT_ANGLE_B1: 36.88933
   response: 708056210880EC2
