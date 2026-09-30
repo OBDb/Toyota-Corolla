@@ -4,5 +4,5 @@ test_cases:
     COROLLA_EVAP_FIN_THERMISTOR: 1.8
   response: 7CC03614B5A
 - expected_values:
-    COROLLA_EVAP_FIN_THERMISTOR: 10.55
-  response: 7CC03614B73
+    COROLLA_EVAP_FIN_THERMISTOR: 10.9
+  response: 7CC03614B74

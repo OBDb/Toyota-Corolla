@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     COROLLA_ENG_ODO: 29506
   response: '7080762010302007342'
+- expected_values:
+    COROLLA_ENG_ODO: 29508
+  response: '7080762010302007344'
+- expected_values:
+    COROLLA_ENG_ODO: 29509
+  response: '7080762010302007345'

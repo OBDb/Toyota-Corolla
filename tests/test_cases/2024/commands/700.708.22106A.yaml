@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     COROLLA_FUEL_PUMP_DUTY_RATIO: 203.23171
   response: 7080562106A0D05
+- expected_values:
+    COROLLA_FUEL_PUMP_DUTY_RATIO: 239.63415
+  response: 7080562106A0F5A

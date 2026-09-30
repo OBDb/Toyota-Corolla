@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     COROLLA_BLOWER_MOTOR_SPEED_LEVEL: 4
   response: 7CC03613C04
+- expected_values:
+    COROLLA_BLOWER_MOTOR_SPEED_LEVEL: 5
+  response: 7CC03613C05
+- expected_values:
+    COROLLA_BLOWER_MOTOR_SPEED_LEVEL: 8
+  response: 7CC03613C08
+- expected_values:
+    COROLLA_BLOWER_MOTOR_SPEED_LEVEL: 12
+  response: 7CC03613C0C
+- expected_values:
+    COROLLA_BLOWER_MOTOR_SPEED_LEVEL: 19
+  response: 7CC03613C13
+- expected_values:
+    COROLLA_BLOWER_MOTOR_SPEED_LEVEL: 31
+  response: 7CC03613C1F

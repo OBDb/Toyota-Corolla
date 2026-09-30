@@ -1,8 +1,8 @@
 command_id: 700.708.221F46
 test_cases:
 - expected_values:
-    COROLLA_AMBIENT_T: 36
-  response: 70804621F464C
+    COROLLA_AMBIENT_T: 32
+  response: 70804621F4648
 - expected_values:
-    COROLLA_AMBIENT_T: 69
-  response: 70804621F466D
+    COROLLA_AMBIENT_T: 70
+  response: 70804621F466E

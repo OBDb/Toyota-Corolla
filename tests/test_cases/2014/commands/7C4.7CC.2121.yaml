@@ -4,17 +4,5 @@ test_cases:
     COROLLA_CABIN_T: 21.5
   response: 7CC03612170
 - expected_values:
-    COROLLA_CABIN_T: 21.75
-  response: 7CC03612171
-- expected_values:
-    COROLLA_CABIN_T: 22
-  response: 7CC03612172
-- expected_values:
-    COROLLA_CABIN_T: 22.25
-  response: 7CC03612173
-- expected_values:
-    COROLLA_CABIN_T: 22.5
-  response: 7CC03612174
-- expected_values:
-    COROLLA_CABIN_T: 22.75
-  response: 7CC03612175
+    COROLLA_CABIN_T: 35.75
+  response: 7CC036121A9

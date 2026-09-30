@@ -4,5 +4,5 @@ test_cases:
     COROLLA_ECT: 33.5
   response: 7CC0361265C
 - expected_values:
-    COROLLA_ECT: 90.2
-  response: 7CC036126FE
+    COROLLA_ECT: 90.55
+  response: 7CC036126FF
