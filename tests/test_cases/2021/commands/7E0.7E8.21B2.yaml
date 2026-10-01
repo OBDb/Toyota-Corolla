@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.21B2
+test_cases:
+- expected_values:
+    COROLLA_KNOCK_ADJUST: -52.87483
+    COROLLA_KNOCK_FEEDBACK: 1851.56048
+  response: |-
+    7E8100D61B20164EF71
+    7E821077CFA7DB00000
