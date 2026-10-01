@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.210F
+test_cases:
+- expected_values:
+    COROLLA_IAT_21: 26
+  response: 7E803610F42
+- expected_values:
+    COROLLA_IAT_21: 27
+  response: 7E803610F43
+- expected_values:
+    COROLLA_IAT_21: 28
+  response: 7E803610F44

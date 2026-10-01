@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.210E
+test_cases:
+- expected_values:
+    COROLLA_SPARKADV_21: 5.5
+  response: 7E803610E8B
+- expected_values:
+    COROLLA_SPARKADV_21: 6
+  response: 7E803610E8C
+- expected_values:
+    COROLLA_SPARKADV_21: 8.5
+  response: 7E803610E91
+- expected_values:
+    COROLLA_SPARKADV_21: 27
+  response: 7E803610EB6

@@ -1,5 +1,26 @@
 command_id: 7E0.7E8.213C
 test_cases:
 - expected_values:
+    COROLLA_INJ_VOL_CYL_1: 0.00016
+  response: 7E804613C1380
+- expected_values:
+    COROLLA_INJ_VOL_CYL_1: 0.00016
+  response: 7E804613C1419
+- expected_values:
+    COROLLA_INJ_VOL_CYL_1: 0.00017
+  response: 7E804613C14F0
+- expected_values:
+    COROLLA_INJ_VOL_CYL_1: 0.00017
+  response: 7E804613C15D6
+- expected_values:
+    COROLLA_INJ_VOL_CYL_1: 0.00018
+  response: 7E804613C1674
+- expected_values:
+    COROLLA_INJ_VOL_CYL_1: 0.00018
+  response: 7E804613C1711
+- expected_values:
     COROLLA_INJ_VOL_CYL_1: 0.00019
   response: 7E804613C1782
+- expected_values:
+    COROLLA_INJ_VOL_CYL_1: 0.0002
+  response: 7E804613C1882

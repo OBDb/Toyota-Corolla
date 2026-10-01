@@ -3,5 +3,20 @@ test_cases:
 - expected_values:
     COROLLA_AC_COMP: 1
     COROLLA_FUEL_CUT: 0
+    COROLLA_IDLE_CTRL: 0
+  response: 7E80561E6200000
+- expected_values:
+    COROLLA_AC_COMP: 1
+    COROLLA_FUEL_CUT: 0
     COROLLA_IDLE_CTRL: 1
   response: 7E80561E6640000
+- expected_values:
+    COROLLA_AC_COMP: 1
+    COROLLA_FUEL_CUT: 0
+    COROLLA_IDLE_CTRL: 1
+  response: 7E80561E6700000
+- expected_values:
+    COROLLA_AC_COMP: 1
+    COROLLA_FUEL_CUT: 0
+    COROLLA_IDLE_CTRL: 1
+  response: 7E80561E6740000
