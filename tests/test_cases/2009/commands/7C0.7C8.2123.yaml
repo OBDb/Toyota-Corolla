@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     COROLLA_ECT_7C0: 56.5
   response: 7C803612371
+- expected_values:
+    COROLLA_ECT_7C0: 78
+  response: 7C80361239C
+- expected_values:
+    COROLLA_ECT_7C0: 82
+  response: 7C8036123A4
+- expected_values:
+    COROLLA_ECT_7C0: 86.5
+  response: 7C8036123AD
+- expected_values:
+    COROLLA_ECT_7C0: 87.5
+  response: 7C8036123AF
+- expected_values:
+    COROLLA_ECT_7C0: 88
+  response: 7C8036123B0

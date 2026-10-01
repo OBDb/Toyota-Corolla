@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2142
+test_cases:
+- expected_values:
+    COROLLA_BAT_CURRENT: -73.44358
+  response: 7E804614234CB
+- expected_values:
+    COROLLA_BAT_CURRENT: -73.36728
+  response: 7E804614234DF
+- expected_values:
+    COROLLA_BAT_CURRENT: -73.21851
+  response: '7E80461423506'
+- expected_values:
+    COROLLA_BAT_CURRENT: -73.14603
+  response: '7E80461423519'
+- expected_values:
+    COROLLA_BAT_CURRENT: -73.06973
+  response: 7E8046142352D
+- expected_values:
+    COROLLA_BAT_CURRENT: -72.84848
+  response: '7E80461423567'
+- expected_values:
+    COROLLA_BAT_CURRENT: -72.6997
+  response: 7E8046142358E

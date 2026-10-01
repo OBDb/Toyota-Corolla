@@ -1,5 +1,26 @@
 command_id: 7E0.7E8.2110
 test_cases:
 - expected_values:
+    COROLLA_MAF_21: 2.59
+  response: '7E80461100103'
+- expected_values:
+    COROLLA_MAF_21: 2.62
+  response: '7E80461100106'
+- expected_values:
+    COROLLA_MAF_21: 2.65
+  response: '7E80461100109'
+- expected_values:
+    COROLLA_MAF_21: 2.68
+  response: 7E8046110010C
+- expected_values:
+    COROLLA_MAF_21: 2.71
+  response: 7E8046110010F
+- expected_values:
+    COROLLA_MAF_21: 3.71
+  response: '7E80461100173'
+- expected_values:
+    COROLLA_MAF_21: 3.93
+  response: '7E80461100189'
+- expected_values:
     COROLLA_MAF_21: 4.81
   response: 7E804611001E1
