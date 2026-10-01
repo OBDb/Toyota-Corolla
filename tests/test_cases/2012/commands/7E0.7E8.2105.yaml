@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2105
+test_cases:
+- expected_values:
+    COROLLA_CATALYST_T_B1S1: 390
+  response: 7E806610515F410CC
+- expected_values:
+    COROLLA_CATALYST_T_B1S1: 397.6
+  response: 7E8066105167E1118
+- expected_values:
+    COROLLA_CATALYST_T_B1S1: 434.6
+  response: 7E80661051843128A
+- expected_values:
+    COROLLA_CATALYST_T_B1S1: 398.1
+  response: 7E8066105185F111D
+- expected_values:
+    COROLLA_CATALYST_T_B1S1: 452.2
+  response: 7E8066105187F133A
+- expected_values:
+    COROLLA_CATALYST_T_B1S1: 485.8
+  response: 7E806610518B0148A
+- expected_values:
+    COROLLA_CATALYST_T_B1S1: 528
+  response: 7E806610519B41630
+- expected_values:
+    COROLLA_CATALYST_T_B1S1: 552.3
+  response: 7E80661051A9B1723
+- expected_values:
+    COROLLA_CATALYST_T_B1S1: 574.6
+  response: 7E80661051C271802

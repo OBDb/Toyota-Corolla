@@ -1,0 +1,34 @@
+command_id: 7B0.7B8.2106
+test_cases:
+- expected_values:
+    COROLLA_YAW_1: -4
+    COROLLA_YAW_2: -1
+  response: 7B80561067C7F6A
+- expected_values:
+    COROLLA_YAW_1: -1
+    COROLLA_YAW_2: -1
+  response: 7B80561067F7F4C
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: -1
+  response: 7B8056106807F97
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: -1
+  response: 7B8056106807FE2
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: -1
+  response: 7B8056106807FF1
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: 0
+  response: 7B8056106808000
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: 0
+  response: 7B805610680800F
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: 0
+  response: 7B805610680801E

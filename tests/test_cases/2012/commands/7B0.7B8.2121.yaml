@@ -1,0 +1,26 @@
+command_id: 7B0.7B8.2121
+test_cases:
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 0
+  response: 7B803612100
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 2.56
+  response: 7B803612102
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 5.12
+  response: 7B803612104
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 43.52
+  response: 7B803612122
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 46.08
+  response: 7B803612124
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 65.28
+  response: 7B803612133
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 69.12
+  response: 7B803612136
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 76.8
+  response: 7B80361213C
