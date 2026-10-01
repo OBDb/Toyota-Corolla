@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2181
+test_cases:
+- expected_values:
+    COROLLA_NOUT_SENS_V: 0
+    COROLLA_NT_SENS_V: 3.75547
+    COROLLA_SPD_NIN: 6400
+    COROLLA_SPD_NOUT: 0
+    COROLLA_SPD_NT: 3550
+  response: |-
+    7E8100C618147C04780
+    7E82100000000000000
