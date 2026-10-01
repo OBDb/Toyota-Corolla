@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2107
 test_cases:
 - expected_values:
+    COROLLA_LTFT1_21: -3.15843
+  response: 7E80361077C
+- expected_values:
+    COROLLA_LTFT1_21: -2.37745
+  response: 7E80361077D
+- expected_values:
     COROLLA_LTFT1_21: -1.59647
   response: 7E80361077E

@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2111
 test_cases:
 - expected_values:
+    COROLLA_THROTTLE_21: 16.47059
+  response: 7E80361112A
+- expected_values:
+    COROLLA_THROTTLE_21: 17.2549
+  response: 7E80361112C
+- expected_values:
     COROLLA_THROTTLE_21: 17.64706
   response: 7E80361112D

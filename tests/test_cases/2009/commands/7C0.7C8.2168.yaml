@@ -1,5 +1,8 @@
 command_id: 7C0.7C8.2168
 test_cases:
 - expected_values:
+    COROLLA_RHEOSTAT: 230
+  response: 7C8036168E6
+- expected_values:
     COROLLA_RHEOSTAT: 231
   response: 7C8036168E7

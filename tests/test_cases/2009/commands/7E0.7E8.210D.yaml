@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.210D
+test_cases:
+- expected_values:
+    COROLLA_VSS_21: 0
+  response: 7E803610D00
+- expected_values:
+    COROLLA_VSS_21: 10
+  response: 7E803610D0A

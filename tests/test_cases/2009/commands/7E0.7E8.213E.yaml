@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.213E
+test_cases:
+- expected_values:
+    COROLLA_CAT_T_B1S2: 200.7
+  response: 7E804613E0967
+- expected_values:
+    COROLLA_CAT_T_B1S2: 305.4
+  response: 7E804613E0D7E
+- expected_values:
+    COROLLA_CAT_T_B1S2: 307.5
+  response: 7E804613E0D93
+- expected_values:
+    COROLLA_CAT_T_B1S2: 308.2
+  response: 7E804613E0D9A
+- expected_values:
+    COROLLA_CAT_T_B1S2: 308.3
+  response: 7E804613E0D9B
+- expected_values:
+    COROLLA_CAT_T_B1S2: 394.2
+  response: 7E804613E10F6
