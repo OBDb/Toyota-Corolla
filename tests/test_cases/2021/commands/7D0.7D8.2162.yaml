@@ -1,5 +1,11 @@
 command_id: 7D0.7D8.2162
 test_cases:
 - expected_values:
+    COROLLA_PARKING_BRAKE: 0
+  response: 7D8056162090400
+- expected_values:
+    COROLLA_PARKING_BRAKE: 0
+  response: 7D8056162093800
+- expected_values:
     COROLLA_PARKING_BRAKE: 1
   response: 7D80561620B0000

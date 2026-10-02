@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     COROLLA_BUCKLE_RS: 1
   response: '78806610402030101'
+- expected_values:
+    COROLLA_BUCKLE_RS: 2
+  response: '78806610402030102'
+- expected_values:
+    COROLLA_BUCKLE_RS: 2
+  response: '78806610402040202'
+- expected_values:
+    COROLLA_BUCKLE_RS: 2
+  response: '78806610402050202'

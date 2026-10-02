@@ -1,11 +1,8 @@
 command_id: 7C4.7CC.214B
 test_cases:
 - expected_values:
-    COROLLA_EVAP_FIN_THERMISTOR: 20.35
-  response: 7CC03614B8F
-- expected_values:
-    COROLLA_EVAP_FIN_THERMISTOR: 21.05
-  response: 7CC03614B91
+    COROLLA_EVAP_FIN_THERMISTOR: 1.45
+  response: 7CC03614B59
 - expected_values:
     COROLLA_EVAP_FIN_THERMISTOR: 21.4
   response: 7CC03614B92
