@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2121
 test_cases:
 - expected_values:
-    COROLLA_CABIN_T: 26.25
-  response: 7CC03612183
+    COROLLA_CABIN_T: 22.25
+  response: 7CC03612173
 - expected_values:
     COROLLA_CABIN_T: 26.5
   response: 7CC03612184

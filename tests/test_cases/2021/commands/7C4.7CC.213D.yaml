@@ -1,5 +1,17 @@
 command_id: 7C4.7CC.213D
 test_cases:
 - expected_values:
+    COROLLA_ADJUSTED_AMBIENT_T: 21.68
+  response: 7CC03613DA4
+- expected_values:
+    COROLLA_ADJUSTED_AMBIENT_T: 22
+  response: 7CC03613DA5
+- expected_values:
+    COROLLA_ADJUSTED_AMBIENT_T: 22.32
+  response: 7CC03613DA6
+- expected_values:
+    COROLLA_ADJUSTED_AMBIENT_T: 24.24
+  response: 7CC03613DAC
+- expected_values:
     COROLLA_ADJUSTED_AMBIENT_T: 27.76
   response: 7CC03613DB7
