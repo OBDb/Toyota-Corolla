@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.2131
 test_cases:
 - expected_values:
+    COROLLA_VALVEMATIC_CURRENT: 106.04492
+  response: 7E80661312A6B6526
+- expected_values:
+    COROLLA_VALVEMATIC_CURRENT: 140.12695
+  response: 7E8066131380D6526
+- expected_values:
+    COROLLA_VALVEMATIC_CURRENT: 164.93164
+  response: 7E806613141F96528
+- expected_values:
     COROLLA_VALVEMATIC_CURRENT: 200.22461
   response: 7E806613150170BD7
+- expected_values:
+    COROLLA_VALVEMATIC_CURRENT: 258.57422
+  response: 7E8066131676E65D5
