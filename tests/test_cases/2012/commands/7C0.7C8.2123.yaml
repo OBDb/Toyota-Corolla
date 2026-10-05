@@ -1,6 +1,12 @@
 command_id: 7C0.7C8.2123
 test_cases:
 - expected_values:
+    COROLLA_ECT_7C0: 57
+  response: 7C803612372
+- expected_values:
+    COROLLA_ECT_7C0: 61.5
+  response: 7C80361237B
+- expected_values:
     COROLLA_ECT_7C0: 84.5
   response: 7C8036123A9
 - expected_values:
