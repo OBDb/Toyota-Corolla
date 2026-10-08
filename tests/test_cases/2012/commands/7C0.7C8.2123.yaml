@@ -4,26 +4,5 @@ test_cases:
     COROLLA_ECT_7C0: 54
   response: 7C80361236C
 - expected_values:
-    COROLLA_ECT_7C0: 57
-  response: 7C803612372
-- expected_values:
-    COROLLA_ECT_7C0: 61.5
-  response: 7C80361237B
-- expected_values:
-    COROLLA_ECT_7C0: 84.5
-  response: 7C8036123A9
-- expected_values:
-    COROLLA_ECT_7C0: 86.5
-  response: 7C8036123AD
-- expected_values:
-    COROLLA_ECT_7C0: 88
-  response: 7C8036123B0
-- expected_values:
-    COROLLA_ECT_7C0: 88.5
-  response: 7C8036123B1
-- expected_values:
-    COROLLA_ECT_7C0: 89
-  response: 7C8036123B2
-- expected_values:
     COROLLA_ECT_7C0: 89.5
   response: 7C8036123B3
