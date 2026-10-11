@@ -10,10 +10,25 @@ test_cases:
     7582A10076130000000
     7582A21000000000000
 - expected_values:
+    COROLLA_TIRE_P_RR: 1.89655
+  response: |-
+    7582A10076130000000
+    7582A218B0000000000
+- expected_values:
     COROLLA_TIRE_P_RR: 2.24138
   response: |-
     7582A10076130000000
     7582A219F0000000000
+- expected_values:
+    COROLLA_TIRE_P_RR: 2.25862
+  response: |-
+    7582A10076130000000
+    7582A21A00000000000
+- expected_values:
+    COROLLA_TIRE_P_RL: 1.98276
+  response: |-
+    7582A10076130000090
+    7582A21000000000000
 - expected_values:
     COROLLA_TIRE_P_FL: 2.44828
     COROLLA_TIRE_P_FR: 2.48276
