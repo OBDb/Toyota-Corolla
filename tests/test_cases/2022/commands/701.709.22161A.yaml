@@ -1,0 +1,5 @@
+command_id: 701.709.22161A
+test_cases:
+- expected_values:
+    COROLLA_NT_SPD: 775
+  response: 7090562161A0307

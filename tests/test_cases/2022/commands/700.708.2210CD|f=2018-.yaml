@@ -4,8 +4,20 @@ test_cases:
     COROLLA_LFPS: 513.5
   response: 708056210CD940F
 - expected_values:
+    COROLLA_LFPS: 518.4
+  response: 708056210CD9440
+- expected_values:
+    COROLLA_LFPS: 533.2
+  response: 708056210CD94D4
+- expected_values:
     COROLLA_LFPS: 545.5
   response: 708056210CD954F
+- expected_values:
+    COROLLA_LFPS: 546.4
+  response: 708056210CD9558
+- expected_values:
+    COROLLA_LFPS: 559.9
+  response: 708056210CD95DF
 - expected_values:
     COROLLA_LFPS: 560.6
   response: 708056210CD95E6

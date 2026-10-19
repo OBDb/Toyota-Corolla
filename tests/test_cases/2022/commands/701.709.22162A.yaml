@@ -1,0 +1,5 @@
+command_id: 701.709.22162A
+test_cases:
+- expected_values:
+    COROLLA_CVT_CLAMP_P: 0.48746
+  response: 7090562162A80FA
