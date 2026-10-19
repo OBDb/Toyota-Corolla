@@ -1,0 +1,5 @@
+command_id: 700.708.221018
+test_cases:
+- expected_values:
+    COROLLA_INJECTOR_PORT: 2.885
+  response: 708056210180B45

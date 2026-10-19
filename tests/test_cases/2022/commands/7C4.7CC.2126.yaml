@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     COROLLA_ECT: 67.1
   response: 7CC036126BC
+- expected_values:
+    COROLLA_ECT: 90.55
+  response: 7CC036126FF

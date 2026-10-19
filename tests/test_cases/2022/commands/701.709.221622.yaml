@@ -1,0 +1,5 @@
+command_id: 701.709.221622
+test_cases:
+- expected_values:
+    COROLLA_TRANS_SHIFT_ST_RAT_701: 3.37582
+  response: '709056216223604'
