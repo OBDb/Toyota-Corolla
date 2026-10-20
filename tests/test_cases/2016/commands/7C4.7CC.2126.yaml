@@ -1,5 +1,17 @@
 command_id: 7C4.7CC.2126
 test_cases:
 - expected_values:
+    COROLLA_ECT: 62.2
+  response: 7CC036126AE
+- expected_values:
     COROLLA_ECT: 81.45
   response: 7CC036126E5
+- expected_values:
+    COROLLA_ECT: 89.15
+  response: 7CC036126FB
+- expected_values:
+    COROLLA_ECT: 90.2
+  response: 7CC036126FE
+- expected_values:
+    COROLLA_ECT: 90.55
+  response: 7CC036126FF

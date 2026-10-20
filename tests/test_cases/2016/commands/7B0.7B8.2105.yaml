@@ -1,6 +1,42 @@
 command_id: 7B0.7B8.2105
 test_cases:
 - expected_values:
+    COROLLA_DECEL: -0.78424
+    COROLLA_DECEL_2: 0.92682
+  response: |-
+    7B8100961057A86067B
+    7B82100FD2D00000000
+- expected_values:
+    COROLLA_DECEL: -0.35647
+    COROLLA_DECEL_2: 0.78424
+  response: |-
+    7B8100961057D85034A
+    7B82100FF0700000000
+- expected_values:
+    COROLLA_DECEL: -0.35647
+    COROLLA_DECEL_2: 0.92682
+  response: |-
+    7B8100961057D8602ED
+    7B82100FEED00000000
+- expected_values:
+    COROLLA_DECEL: -0.35647
+    COROLLA_DECEL_2: 0.92682
+  response: |-
+    7B8100961057D860356
+    7B82100FF1300000000
+- expected_values:
+    COROLLA_DECEL: -0.07129
+    COROLLA_DECEL_2: 0.64165
+  response: |-
+    7B8100961057F84064E
+    7B821220AD500000000
+- expected_values:
+    COROLLA_DECEL: 0.07129
+    COROLLA_DECEL_2: -0.07129
+  response: |-
+    7B810096105807F05BC
+    7B82115037600000000
+- expected_values:
     COROLLA_DECEL: 0.21388
     COROLLA_DECEL_2: -0.21388
   response: |-
