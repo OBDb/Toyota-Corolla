@@ -1,0 +1,14 @@
+command_id: 7B0.7B8.2105
+test_cases:
+- expected_values:
+    COROLLA_DECEL: 0.21388
+    COROLLA_DECEL_2: -0.21388
+  response: |-
+    7B810096105817E052A
+    7B82100071400000000
+- expected_values:
+    COROLLA_DECEL: 0.21388
+    COROLLA_DECEL_2: 0.07129
+  response: |-
+    7B8100961058180082E
+    7B821330C0A00000000

@@ -1,0 +1,8 @@
+command_id: 7B0.7B8.2121
+test_cases:
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 58.88
+  response: 7B80361212E
+- expected_values:
+    COROLLA_VEHICLE_SPEED_7B0: 70.4
+  response: 7B803612137
