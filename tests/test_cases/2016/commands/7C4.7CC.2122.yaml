@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     COROLLA_AAT_7C4: 27.45
   response: 7CC03612291
+- expected_values:
+    COROLLA_AAT_7C4: 29.2
+  response: 7CC03612296
+- expected_values:
+    COROLLA_AAT_7C4: 29.9
+  response: 7CC03612298
+- expected_values:
+    COROLLA_AAT_7C4: 30.25
+  response: 7CC03612299
+- expected_values:
+    COROLLA_AAT_7C4: 30.6
+  response: 7CC0361229A
+- expected_values:
+    COROLLA_AAT_7C4: 33.75
+  response: 7CC036122A3

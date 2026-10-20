@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     COROLLA_ADJUSTED_AMBIENT_T: 25.84
   response: 7CC03613DB1
+- expected_values:
+    COROLLA_ADJUSTED_AMBIENT_T: 28.4
+  response: 7CC03613DB9
+- expected_values:
+    COROLLA_ADJUSTED_AMBIENT_T: 28.72
+  response: 7CC03613DBA
+- expected_values:
+    COROLLA_ADJUSTED_AMBIENT_T: 30
+  response: 7CC03613DBE
+- expected_values:
+    COROLLA_ADJUSTED_AMBIENT_T: 33.84
+  response: 7CC03613DCA

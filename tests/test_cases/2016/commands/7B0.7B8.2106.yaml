@@ -4,3 +4,19 @@ test_cases:
     COROLLA_YAW_1: 0
     COROLLA_YAW_2: -1
   response: 7B8056106807FE2
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: -1
+  response: 7B8056106807FF1
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: 0
+  response: 7B805610680801E
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: 0
+  response: 7B805610680802D
+- expected_values:
+    COROLLA_YAW_1: 0
+    COROLLA_YAW_2: 0
+  response: 7B805610680805A

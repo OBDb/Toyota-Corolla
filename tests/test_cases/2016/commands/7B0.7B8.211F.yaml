@@ -4,3 +4,7 @@ test_cases:
     COROLLA_PARKING_BRAKE_SW: 0
     COROLLA_STOP_LIGHT_SW: 0
   response: 7B804611F0000
+- expected_values:
+    COROLLA_PARKING_BRAKE_SW: 0
+    COROLLA_STOP_LIGHT_SW: 1
+  response: 7B804611F8000

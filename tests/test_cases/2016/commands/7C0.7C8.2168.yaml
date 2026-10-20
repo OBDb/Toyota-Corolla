@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     COROLLA_RHEOSTAT: 226
   response: 7C8036168E2
+- expected_values:
+    COROLLA_RHEOSTAT: 227
+  response: 7C8036168E3
