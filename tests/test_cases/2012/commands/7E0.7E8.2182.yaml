@@ -43,6 +43,12 @@ test_cases:
     7E81008618260E08105
     7E82107F40000000000
 - expected_values:
+    COROLLA_ATF_PAN_T: 66.875
+    COROLLA_ATF_TQC_T: 88.99219
+  response: |-
+    7E8100861826AE080FE
+    7E82108040000000000
+- expected_values:
     COROLLA_ATF_PAN_T: 84.375
     COROLLA_ATF_TQC_T: 92.63281
   response: |-
@@ -60,12 +66,6 @@ test_cases:
   response: |-
     7E810086182802081E0
     7E82108DC0000000000
-- expected_values:
-    COROLLA_ATF_PAN_T: 89.375
-    COROLLA_ATF_TQC_T: 88.99219
-  response: |-
-    7E810086182816080FE
-    7E82108140000000000
 - expected_values:
     COROLLA_ATF_PAN_T: 93.125
     COROLLA_ATF_TQC_T: 88.57812
