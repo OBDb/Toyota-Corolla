@@ -1,0 +1,22 @@
+command_id: 7E0.7E8.21E1
+test_cases:
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100010B0B
+    7E82120000337000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100010B0B
+    7E82120000424000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100010B0B
+    7E821200005A2000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100010B0B
+    7E82120000745000000

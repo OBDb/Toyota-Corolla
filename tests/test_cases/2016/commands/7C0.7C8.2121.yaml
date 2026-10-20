@@ -1,0 +1,11 @@
+command_id: 7C0.7C8.2121
+test_cases:
+- expected_values:
+    COROLLA_VSS: 37
+  response: 7C803612125
+- expected_values:
+    COROLLA_VSS: 54
+  response: 7C803612136
+- expected_values:
+    COROLLA_VSS: 71
+  response: 7C803612147
