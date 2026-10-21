@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.2106
+command_id: 7E0.7E8.2106|f=2010-
 test_cases:
 - expected_values:
     COROLLA_2ND_AIR_MONITOR_AVAIL: 0
