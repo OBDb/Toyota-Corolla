@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.221022|fc=1
 test_cases:
 - expected_values:
-    COROLLA_FLV: 12.08
-  response: 7C80562102204B8
+    COROLLA_FLV: 11.1
+  response: 7C8056210220456
 - expected_values:
     COROLLA_FLV: 40.96
   response: 7C8056210221000
