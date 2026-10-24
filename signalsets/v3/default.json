@@ -1380,7 +1380,11 @@
     {"id": "COROLLA_ALT_VOL_ACTIVE_TEST", "path": "Engine",  "fmt": {"bix": 48, "len": 16, "max": 79.998,              "mul": 5,  "div": 4096,               "unit": "volts"   }, "name": "Alt voltage - active test"},
     {"id": "COROLLA_ALTERNATOR_OUTPUT",   "path": "Engine",  "fmt": {"bix": 64, "len": 16, "max": 399.9,               "mul": 25, "div": 4096,               "unit": "percent" }, "name": "Alternator output duty"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "44"}, "freq": 1, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2013, 2015, 2017, 2018, 2019, 2020], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "44"}, "freq": 1, "filter": { "to": 2010 }, "dbgfilter": { "to": 2008 },
+  "signals": [
+    {"id": "COROLLA_VARIABLE_VLV_TIM_AIM_1_RAW", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Variable valve timing aim angle 1, raw count"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "44"}, "freq": 1, "filter": { "from": 2011 }, "dbgfilter": { "years": [2013, 2015, 2017, 2018, 2019, 2020], "from": 2023 },
   "signals": [
     {"id": "COROLLA_VARIABLE_VLV_TIM_AIM_1", "path": "Engine", "fmt": {           "len": 16, "max": 399, "mul": 1333,         "div": 218450, "unit": "percent" }, "name": "Variable valve timing aim angle 1"},
     {"id": "COROLLA_VARIABLE_VLV_TIM_OIL_1", "path": "Engine", "fmt": {"bix": 16, "len": 16, "max": 399, "mul": 0.0061020829,                "unit": "percent" }, "name": "Variable valve timing oil control valve duty 1"},
