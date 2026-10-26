@@ -7,13 +7,6 @@ test_cases:
     7582A10076116000054
     7582A21530000000000
 - expected_values:
-    COROLLA_TIRE_T_FR: 13
-    COROLLA_TIRE_T_RL: 13
-    COROLLA_TIRE_T_RR: 14
-  response: |-
-    7582A10076116003535
-    7582A21360000000000
-- expected_values:
     COROLLA_TIRE_T_FR: 23
     COROLLA_TIRE_T_RR: 26
   response: |-
@@ -35,6 +28,12 @@ test_cases:
   response: |-
     7582A100761163E3D43
     7582A21400000000000
+- expected_values:
+    COROLLA_TIRE_T_FL: 23
+    COROLLA_TIRE_T_RL: 25
+  response: |-
+    7582A100761163F0041
+    7582A21000000000000
 - expected_values:
     COROLLA_TIRE_T_FL: 40
     COROLLA_TIRE_T_FR: 42
