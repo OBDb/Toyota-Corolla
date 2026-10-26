@@ -10,5 +10,8 @@ test_cases:
     COROLLA_ENG_ODO: 93956
   response: 7080762010302016F04
 - expected_values:
-    COROLLA_ENG_ODO: 95647
-  response: 708076201030201759F
+    COROLLA_ENG_ODO: 95743
+  response: 70807620103020175FF
+- expected_values:
+    COROLLA_ENG_ODO: 95744
+  response: '7080762010302017600'
