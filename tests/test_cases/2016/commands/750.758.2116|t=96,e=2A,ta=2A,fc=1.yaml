@@ -1,6 +1,12 @@
 command_id: 750.758.2116|t=96,e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
+    COROLLA_TIRE_T_RL: 44
+    COROLLA_TIRE_T_RR: 43
+  response: |-
+    7582A10076116000054
+    7582A21530000000000
+- expected_values:
     COROLLA_TIRE_T_FR: 13
     COROLLA_TIRE_T_RL: 13
     COROLLA_TIRE_T_RR: 14
@@ -29,21 +35,6 @@ test_cases:
   response: |-
     7582A100761163E3D43
     7582A21400000000000
-- expected_values:
-    COROLLA_TIRE_T_FL: 30
-    COROLLA_TIRE_T_RL: 35
-    COROLLA_TIRE_T_RR: 34
-  response: |-
-    7582A1007611646004B
-    7582A214A0000000000
-- expected_values:
-    COROLLA_TIRE_T_FL: 34
-    COROLLA_TIRE_T_FR: 34
-    COROLLA_TIRE_T_RL: 42
-    COROLLA_TIRE_T_RR: 40
-  response: |-
-    7582A100761164A4A52
-    7582A21500000000000
 - expected_values:
     COROLLA_TIRE_T_FL: 40
     COROLLA_TIRE_T_FR: 42
