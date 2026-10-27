@@ -7,8 +7,8 @@ test_cases:
     COROLLA_ATF_T_PAN_V3: 30
   response: '708056216274600'
 - expected_values:
-    COROLLA_ATF_T_PAN_V3: 36.875
-  response: 708056216274CE0
+    COROLLA_ATF_T_PAN_V3: 31.875
+  response: '7080562162747E0'
 - expected_values:
     COROLLA_ATF_T_PAN_V3: 91.25
   response: '708056216278340'
