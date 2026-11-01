@@ -1,0 +1,7 @@
+command_id: 701.709.221634
+test_cases:
+- expected_values:
+    COROLLA_SYNCHRONIZE_STROKE: 11.24627
+  response: |-
+    70910086216340B3F28
+    7092100010000000000
