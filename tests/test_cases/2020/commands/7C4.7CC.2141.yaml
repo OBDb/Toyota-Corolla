@@ -1,0 +1,14 @@
+command_id: 7C4.7CC.2141
+test_cases:
+- expected_values:
+    COROLLA_AIR_MIX_SERVO_ACT_D: 122
+    COROLLA_AIR_MIX_SERVO_TARG_D: 122
+  response: 7CC0661417A7A0501
+- expected_values:
+    COROLLA_AIR_MIX_SERVO_ACT_D: 125
+    COROLLA_AIR_MIX_SERVO_TARG_D: 125
+  response: 7CC0661417D7D0501
+- expected_values:
+    COROLLA_AIR_MIX_SERVO_ACT_D: 129
+    COROLLA_AIR_MIX_SERVO_TARG_D: 129
+  response: 7CC06614181810501

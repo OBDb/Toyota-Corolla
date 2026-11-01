@@ -1,0 +1,11 @@
+command_id: 7C4.7CC.214C
+test_cases:
+- expected_values:
+    COROLLA_EVAPORATOR_TARGET_TEMP: 9.74
+  response: 7CC04614C83CE
+- expected_values:
+    COROLLA_EVAPORATOR_TARGET_TEMP: 11.22
+  response: 7CC04614C8462
+- expected_values:
+    COROLLA_EVAPORATOR_TARGET_TEMP: 11.58
+  response: 7CC04614C8486
