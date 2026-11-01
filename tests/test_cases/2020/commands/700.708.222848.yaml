@@ -1,0 +1,5 @@
+command_id: 700.708.222848
+test_cases:
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 539.77934
+  response: 708056228481BA3

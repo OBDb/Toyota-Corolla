@@ -1,0 +1,5 @@
+command_id: 700.708.221062
+test_cases:
+- expected_values:
+    COROLLA_EXHAUST_VVT_OCV_CONTROL_DUTY: 26.10513
+  response: 7080562106210B5
