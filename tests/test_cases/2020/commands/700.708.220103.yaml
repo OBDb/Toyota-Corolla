@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     COROLLA_ENG_ODO: 63713
   response: 708076201030200F8E1
+- expected_values:
+    COROLLA_ENG_ODO: 63714
+  response: 708076201030200F8E2
+- expected_values:
+    COROLLA_ENG_ODO: 63715
+  response: 708076201030200F8E3

@@ -1,26 +1,14 @@
 command_id: 700.708.221627
 test_cases:
 - expected_values:
+    COROLLA_ATF_T_PAN_V3: 37.5
+  response: 708056216274D80
+- expected_values:
+    COROLLA_ATF_T_PAN_V3: 41.875
+  response: '7080562162751E0'
+- expected_values:
     COROLLA_ATF_T_PAN_V3: 50
   response: 708056216275A00
-- expected_values:
-    COROLLA_ATF_T_PAN_V3: 50.625
-  response: 708056216275AA0
-- expected_values:
-    COROLLA_ATF_T_PAN_V3: 52.5
-  response: 708056216275C80
-- expected_values:
-    COROLLA_ATF_T_PAN_V3: 55
-  response: 708056216275F00
-- expected_values:
-    COROLLA_ATF_T_PAN_V3: 55.625
-  response: 708056216275FA0
-- expected_values:
-    COROLLA_ATF_T_PAN_V3: 57.5
-  response: '708056216276180'
-- expected_values:
-    COROLLA_ATF_T_PAN_V3: 58.75
-  response: 7080562162762C0
 - expected_values:
     COROLLA_ATF_T_PAN_V3: 67.5
   response: 708056216276B80
