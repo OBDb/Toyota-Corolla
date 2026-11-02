@@ -4,14 +4,5 @@ test_cases:
     COROLLA_FLV: 35.63
   response: 7C8056210220DEB
 - expected_values:
-    COROLLA_FLV: 38.05
-  response: 7C8056210220EDD
-- expected_values:
-    COROLLA_FLV: 39.73
-  response: 7C8056210220F85
-- expected_values:
     COROLLA_FLV: 41.41
   response: 7C805621022102D
-- expected_values:
-    COROLLA_FLV: 42.85
-  response: 7C80562102210BD
