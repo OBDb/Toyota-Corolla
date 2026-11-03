@@ -1,0 +1,26 @@
+command_id: 7C0.7C8.2123
+test_cases:
+- expected_values:
+    COROLLA_ECT_7C0: 41
+  response: 7C803612352
+- expected_values:
+    COROLLA_ECT_7C0: 52.5
+  response: 7C803612369
+- expected_values:
+    COROLLA_ECT_7C0: 63
+  response: 7C80361237E
+- expected_values:
+    COROLLA_ECT_7C0: 69.5
+  response: 7C80361238B
+- expected_values:
+    COROLLA_ECT_7C0: 75
+  response: 7C803612396
+- expected_values:
+    COROLLA_ECT_7C0: 76
+  response: 7C803612398
+- expected_values:
+    COROLLA_ECT_7C0: 78.5
+  response: 7C80361239D
+- expected_values:
+    COROLLA_ECT_7C0: 79.5
+  response: 7C80361239F

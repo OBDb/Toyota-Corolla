@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2181
+test_cases:
+- expected_values:
+    COROLLA_SPD_NT: 250
+  response: '7E803618105'
+- expected_values:
+    COROLLA_SPD_NT: 800
+  response: '7E803618110'
+- expected_values:
+    COROLLA_SPD_NT: 850
+  response: '7E803618111'
+- expected_values:
+    COROLLA_SPD_NT: 1000
+  response: '7E803618114'
+- expected_values:
+    COROLLA_SPD_NT: 1100
+  response: '7E803618116'
+- expected_values:
+    COROLLA_SPD_NT: 1250
+  response: '7E803618119'
+- expected_values:
+    COROLLA_SPD_NT: 1300
+  response: 7E80361811A
