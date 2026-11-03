@@ -20,3 +20,8 @@ test_cases:
   response: |-
     7E8100A61E100000825
     7E82120000FA6000000
+- expected_values:
+    COROLLA_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100000826
+    7E82120001852000000

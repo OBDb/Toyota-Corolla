@@ -4,6 +4,9 @@ test_cases:
     COROLLA_SPD_NT: 250
   response: '7E803618105'
 - expected_values:
+    COROLLA_SPD_NT: 650
+  response: 7E80361810D
+- expected_values:
     COROLLA_SPD_NT: 800
   response: '7E803618110'
 - expected_values:
