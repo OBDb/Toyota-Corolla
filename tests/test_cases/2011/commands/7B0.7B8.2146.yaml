@@ -1,0 +1,51 @@
+command_id: 7B0.7B8.2146
+test_cases:
+- expected_values:
+    COROLLA_ZP_DEC: 0
+    COROLLA_ZP_DEC2: 0
+    COROLLA_ZP_YAW: 0
+  response: |-
+    7B8100961460000807E
+    7B8211D691B00000000
+- expected_values:
+    COROLLA_ZP_DEC: 0
+    COROLLA_ZP_DEC2: 0
+    COROLLA_ZP_YAW: 0
+  response: |-
+    7B8100961460000807E
+    7B8211E691B00000000
+- expected_values:
+    COROLLA_ZP_DEC: 0
+    COROLLA_ZP_DEC2: 0
+    COROLLA_ZP_YAW: 0
+  response: |-
+    7B8100961460000807E
+    7B82121691B00000000
+- expected_values:
+    COROLLA_ZP_DEC: 0
+    COROLLA_ZP_DEC2: 0
+    COROLLA_ZP_YAW: 0
+  response: |-
+    7B8100961460000807E
+    7B82125691B00000000
+- expected_values:
+    COROLLA_ZP_DEC: 0
+    COROLLA_ZP_DEC2: 0
+    COROLLA_ZP_YAW: 0
+  response: |-
+    7B8100961460000807E
+    7B82126691B00000000
+- expected_values:
+    COROLLA_ZP_DEC: 0
+    COROLLA_ZP_DEC2: 0
+    COROLLA_ZP_YAW: 0
+  response: |-
+    7B8100961460000807E
+    7B82127691B00000000
+- expected_values:
+    COROLLA_ZP_DEC: 0
+    COROLLA_ZP_DEC2: 0
+    COROLLA_ZP_YAW: 0
+  response: |-
+    7B8100961460000807E
+    7B8212E691B00000000
