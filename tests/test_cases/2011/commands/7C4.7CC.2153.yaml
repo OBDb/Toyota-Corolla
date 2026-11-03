@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     COROLLA_REGULATOR_P: 558.31
   response: 7CC03615345
+- expected_values:
+    COROLLA_REGULATOR_P: 661.28
+  response: 7CC0361534C
+- expected_values:
+    COROLLA_REGULATOR_P: 720.12
+  response: 7CC03615350
