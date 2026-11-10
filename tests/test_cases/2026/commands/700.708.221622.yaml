@@ -1,0 +1,14 @@
+command_id: 700.708.221622
+test_cases:
+- expected_values:
+    COROLLA_TRANS_SHIFT_ST_RAT: 0.78658
+  response: 708056216220C96
+- expected_values:
+    COROLLA_TRANS_SHIFT_ST_RAT: 2.30311
+  response: 7080562162224DA
+- expected_values:
+    COROLLA_TRANS_SHIFT_ST_RAT: 2.35316
+  response: 7080562162225A7
+- expected_values:
+    COROLLA_TRANS_SHIFT_ST_RAT: 3.37582
+  response: '708056216223604'

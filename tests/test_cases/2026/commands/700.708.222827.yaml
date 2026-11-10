@@ -1,0 +1,29 @@
+command_id: 700.708.222827
+test_cases:
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 3240
+  response: '7080462282751'
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 3400
+  response: '7080462282755'
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 3600
+  response: 708046228275A
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 3720
+  response: 708046228275D
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 3760
+  response: 708046228275E
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 3800
+  response: 708046228275F
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 3880
+  response: '7080462282761'
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 4000
+  response: '7080462282764'
+- expected_values:
+    COROLLA_ELECTRIC_WATER_PUMP: 4640
+  response: '7080462282774'

@@ -1,6 +1,38 @@
 command_id: 700.708.221043
 test_cases:
 - expected_values:
+    COROLLA_EWP_RPM: 3250
+    COROLLA_EWP_TARGET_VSS: 3225
+  response: '708056210438182'
+- expected_values:
+    COROLLA_EWP_RPM: 3350
+    COROLLA_EWP_TARGET_VSS: 3350
+  response: '708056210438686'
+- expected_values:
+    COROLLA_EWP_RPM: 3650
+    COROLLA_EWP_TARGET_VSS: 3625
+  response: '708056210439192'
+- expected_values:
+    COROLLA_EWP_RPM: 3700
+    COROLLA_EWP_TARGET_VSS: 3725
+  response: '708056210439594'
+- expected_values:
+    COROLLA_EWP_RPM: 3800
+    COROLLA_EWP_TARGET_VSS: 3800
+  response: '708056210439898'
+- expected_values:
+    COROLLA_EWP_RPM: 3850
+    COROLLA_EWP_TARGET_VSS: 3850
+  response: 708056210439A9A
+- expected_values:
+    COROLLA_EWP_RPM: 3900
+    COROLLA_EWP_TARGET_VSS: 3900
+  response: 708056210439C9C
+- expected_values:
     COROLLA_EWP_RPM: 4025
     COROLLA_EWP_TARGET_VSS: 4025
   response: 70805621043A1A1
+- expected_values:
+    COROLLA_EWP_RPM: 5050
+    COROLLA_EWP_TARGET_VSS: 5050
+  response: 70805621043CACA
