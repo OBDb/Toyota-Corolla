@@ -1,0 +1,29 @@
+command_id: 700.708.222848
+test_cases:
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 546.79838
+  response: 708056228481BFF
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 618.28577
+  response: 708056228481FA8
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 624.99963
+  response: '708056228482000'
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 637.8933
+  response: 7080562284820A9
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 643.61534
+  response: 7080562284820F4
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 682.75411
+  response: 7080562284822F5
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 705.4134
+  response: 70805622848241E
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 705.56599
+  response: '708056228482420'
+- expected_values:
+    COROLLA_EOP_CONTROL_VALVE: 863.26548
+  response: 708056228482C33

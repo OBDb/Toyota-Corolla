@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     COROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 0
   response: '708056210710000'
+- expected_values:
+    COROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 7.22554
+  response: '7080562107102E4'
+- expected_values:
+    COROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 24.65473
+  response: 7080562107109DD

@@ -5,3 +5,18 @@ test_cases:
   response: |-
     708100A621059285128
     7082151000000000000
+- expected_values:
+    COROLLA_ACCEL_PEDAL: 0.00024
+  response: |-
+    708100A621059295129
+    7082151000000000000
+- expected_values:
+    COROLLA_ACCEL_PEDAL: 21.127
+  response: |-
+    708100A621059477029
+    70821510FA100000000
+- expected_values:
+    COROLLA_ACCEL_PEDAL: 41.54954
+  response: |-
+    708100A621059648D29
+    70821511F8C00000000

@@ -1,5 +1,14 @@
 command_id: 700.708.22106F
 test_cases:
 - expected_values:
+    COROLLA_INTAKE_VVT_TARGET_ANGLE_B1: 4.9993
+  response: 7080562106F0200
+- expected_values:
+    COROLLA_INTAKE_VVT_TARGET_ANGLE_B1: 6.34676
+  response: 7080562106F028A
+- expected_values:
     COROLLA_INTAKE_VVT_TARGET_ANGLE_B1: 24.99648
   response: 7080562106F0A00
+- expected_values:
+    COROLLA_INTAKE_VVT_TARGET_ANGLE_B1: 43.53878
+  response: 7080562106F116B
