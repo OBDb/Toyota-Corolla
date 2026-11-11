@@ -1,29 +1,11 @@
 command_id: 700.708.221F3E
 test_cases:
 - expected_values:
-    COROLLA_CAT_T_12: 352.2
-  response: 70805621F3E0F52
+    COROLLA_CAT_T_12: 141.1
+  response: 70805621F3E0713
 - expected_values:
-    COROLLA_CAT_T_12: 368
-  response: 70805621F3E0FF0
-- expected_values:
-    COROLLA_CAT_T_12: 374
-  response: 70805621F3E102C
-- expected_values:
-    COROLLA_CAT_T_12: 378.7
-  response: 70805621F3E105B
-- expected_values:
-    COROLLA_CAT_T_12: 382.3
-  response: 70805621F3E107F
-- expected_values:
-    COROLLA_CAT_T_12: 408.1
-  response: 70805621F3E1181
-- expected_values:
-    COROLLA_CAT_T_12: 486.8
-  response: 70805621F3E1494
+    COROLLA_CAT_T_12: 343
+  response: 70805621F3E0EF6
 - expected_values:
     COROLLA_CAT_T_12: 497.7
   response: 70805621F3E1501
-- expected_values:
-    COROLLA_CAT_T_12: 508.3
-  response: 70805621F3E156B

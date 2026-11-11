@@ -4,6 +4,15 @@ test_cases:
     COROLLA_STEERING_ANGLE: 4.5
   response: 7BB066210040003FE
 - expected_values:
+    COROLLA_STEERING_ANGLE: 12
+  response: 7BB066210040008FF
+- expected_values:
+    COROLLA_STEERING_ANGLE: 21
+  response: 7BB06621004000EFE
+- expected_values:
+    COROLLA_STEERING_ANGLE: 21
+  response: 7BB06621004000EFF
+- expected_values:
     COROLLA_STEERING_ANGLE: -16.5
   response: 7BB06621004FFF501
 - expected_values:

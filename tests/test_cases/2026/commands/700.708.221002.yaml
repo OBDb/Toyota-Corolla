@@ -4,23 +4,5 @@ test_cases:
     COROLLA_12V_V: 13.75485
   response: 708056210022C04
 - expected_values:
-    COROLLA_12V_V: 13.81344
-  response: 708056210022C34
-- expected_values:
-    COROLLA_12V_V: 13.83297
-  response: 708056210022C44
-- expected_values:
-    COROLLA_12V_V: 13.86227
-  response: 708056210022C5C
-- expected_values:
-    COROLLA_12V_V: 13.86715
-  response: 708056210022C60
-- expected_values:
-    COROLLA_12V_V: 13.89157
-  response: 708056210022C74
-- expected_values:
-    COROLLA_12V_V: 13.89645
-  response: 708056210022C78
-- expected_values:
     COROLLA_12V_V: 13.98922
   response: 708056210022CC4

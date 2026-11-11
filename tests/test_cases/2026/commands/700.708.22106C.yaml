@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     COROLLA_DIST_SINCE_BAT_DISC: 20072
   response: 7080562106C4E68
+- expected_values:
+    COROLLA_DIST_SINCE_BAT_DISC: 20143
+  response: 7080562106C4EAF
