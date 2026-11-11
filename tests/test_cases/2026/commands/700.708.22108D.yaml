@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 36.14256
   response: 7080562108D0E75
+- expected_values:
+    COROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 36.18163
+  response: 7080562108D0E79

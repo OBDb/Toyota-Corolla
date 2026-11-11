@@ -1,29 +1,11 @@
 command_id: 700.708.221018
 test_cases:
 - expected_values:
-    COROLLA_INJECTOR_PORT: 4.225
-  response: '708056210181081'
-- expected_values:
-    COROLLA_INJECTOR_PORT: 4.588
-  response: 7080562101811EC
-- expected_values:
-    COROLLA_INJECTOR_PORT: 4.596
-  response: 7080562101811F4
-- expected_values:
-    COROLLA_INJECTOR_PORT: 4.601
-  response: 7080562101811F9
+    COROLLA_INJECTOR_PORT: 0
+  response: '708056210180000'
 - expected_values:
     COROLLA_INJECTOR_PORT: 4.606
   response: 7080562101811FE
-- expected_values:
-    COROLLA_INJECTOR_PORT: 5.092
-  response: '7080562101813E4'
-- expected_values:
-    COROLLA_INJECTOR_PORT: 5.306
-  response: 7080562101814BA
-- expected_values:
-    COROLLA_INJECTOR_PORT: 5.611
-  response: 7080562101815EB
 - expected_values:
     COROLLA_INJECTOR_PORT: 7.089
   response: 708056210181BB1
