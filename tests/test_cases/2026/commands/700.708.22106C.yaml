@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     COROLLA_DIST_SINCE_BAT_DISC: 20143
   response: 7080562106C4EAF
+- expected_values:
+    COROLLA_DIST_SINCE_BAT_DISC: 20233
+  response: 7080562106C4F09
+- expected_values:
+    COROLLA_DIST_SINCE_BAT_DISC: 20234
+  response: 7080562106C4F0A

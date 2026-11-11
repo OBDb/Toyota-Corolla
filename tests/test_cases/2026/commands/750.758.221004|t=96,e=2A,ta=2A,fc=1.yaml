@@ -1,6 +1,15 @@
 command_id: 750.758.221004|t=96,e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
+    COROLLA_TT_FL: -40
+    COROLLA_TT_FR: -40
+    COROLLA_TT_RL: -40
+    COROLLA_TT_RR: -40
+    COROLLA_TT_SPARE: -40
+  response: |-
+    7582A10086210040000
+    7582A21000000000000
+- expected_values:
     COROLLA_TT_FL: 11
     COROLLA_TT_FR: 10
     COROLLA_TT_RL: 11
@@ -54,3 +63,30 @@ test_cases:
   response: |-
     7582A10086210043535
     7582A21373500000000
+- expected_values:
+    COROLLA_TT_FL: 18
+    COROLLA_TT_FR: 19
+    COROLLA_TT_RL: 22
+    COROLLA_TT_RR: 20
+    COROLLA_TT_SPARE: -40
+  response: |-
+    7582A10086210043A3B
+    7582A213E3C00000000
+- expected_values:
+    COROLLA_TT_FL: 19
+    COROLLA_TT_FR: 19
+    COROLLA_TT_RL: 23
+    COROLLA_TT_RR: 20
+    COROLLA_TT_SPARE: -40
+  response: |-
+    7582A10086210043B3B
+    7582A213F3C00000000
+- expected_values:
+    COROLLA_TT_FL: 19
+    COROLLA_TT_FR: 19
+    COROLLA_TT_RL: 23
+    COROLLA_TT_RR: 21
+    COROLLA_TT_SPARE: -40
+  response: |-
+    7582A10086210043B3B
+    7582A213F3D00000000

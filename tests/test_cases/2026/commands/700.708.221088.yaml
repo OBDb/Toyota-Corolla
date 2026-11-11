@@ -4,14 +4,29 @@ test_cases:
     COROLLA_EXHAUST_VVT_ANGLE_B1: 0
   response: '708056210880000'
 - expected_values:
+    COROLLA_EXHAUST_VVT_ANGLE_B1: 0.03906
+  response: '708056210880004'
+- expected_values:
+    COROLLA_EXHAUST_VVT_ANGLE_B1: 0.21481
+  response: '708056210880016'
+- expected_values:
     COROLLA_EXHAUST_VVT_ANGLE_B1: 0.23434
   response: '708056210880018'
 - expected_values:
     COROLLA_EXHAUST_VVT_ANGLE_B1: 9.52991
   response: 7080562108803D0
 - expected_values:
+    COROLLA_EXHAUST_VVT_ANGLE_B1: 15.14435
+  response: 70805621088060F
+- expected_values:
     COROLLA_EXHAUST_VVT_ANGLE_B1: 23.28773
   response: '708056210880951'
+- expected_values:
+    COROLLA_EXHAUST_VVT_ANGLE_B1: 27.42777
+  response: 708056210880AF9
+- expected_values:
+    COROLLA_EXHAUST_VVT_ANGLE_B1: 31.89003
+  response: 708056210880CC2
 - expected_values:
     COROLLA_EXHAUST_VVT_ANGLE_B1: 35.01459
   response: '708056210880E02'

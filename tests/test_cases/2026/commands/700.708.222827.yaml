@@ -1,8 +1,8 @@
 command_id: 700.708.222827
 test_cases:
 - expected_values:
-    COROLLA_ELECTRIC_WATER_PUMP: 3240
-  response: '7080462282751'
+    COROLLA_ELECTRIC_WATER_PUMP: 1480
+  response: '7080462282725'
 - expected_values:
     COROLLA_ELECTRIC_WATER_PUMP: 4640
   response: '7080462282774'
