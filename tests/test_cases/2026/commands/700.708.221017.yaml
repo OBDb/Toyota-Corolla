@@ -4,11 +4,11 @@ test_cases:
     COROLLA_INJ_VOL: 0.98688
   response: 708056210170C56
 - expected_values:
-    COROLLA_INJ_VOL: 1.02875
-  response: 708056210170CDC
-- expected_values:
     COROLLA_INJ_VOL: 1.12125
   response: '708056210170E04'
+- expected_values:
+    COROLLA_INJ_VOL: 1.19375
+  response: 708056210170EEC
 - expected_values:
     COROLLA_INJ_VOL: 3.69625
   response: '708056210172E34'

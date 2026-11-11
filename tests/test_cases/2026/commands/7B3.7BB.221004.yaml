@@ -1,17 +1,14 @@
 command_id: 7B3.7BB.221004
 test_cases:
 - expected_values:
-    COROLLA_STEERING_ANGLE: 4.5
-  response: 7BB066210040003FE
+    COROLLA_STEERING_ANGLE: 1.5
+  response: 7BB066210040001FE
 - expected_values:
     COROLLA_STEERING_ANGLE: 12
   response: 7BB066210040008FF
 - expected_values:
-    COROLLA_STEERING_ANGLE: 21
-  response: 7BB06621004000EFE
-- expected_values:
-    COROLLA_STEERING_ANGLE: 21
-  response: 7BB06621004000EFF
+    COROLLA_STEERING_ANGLE: -22.5
+  response: 7BB06621004FFF1FE
 - expected_values:
     COROLLA_STEERING_ANGLE: -16.5
   response: 7BB06621004FFF501

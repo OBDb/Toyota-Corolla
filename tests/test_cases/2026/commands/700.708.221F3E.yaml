@@ -1,8 +1,8 @@
 command_id: 700.708.221F3E
 test_cases:
 - expected_values:
-    COROLLA_CAT_T_12: 141.1
-  response: 70805621F3E0713
+    COROLLA_CAT_T_12: 63.3
+  response: 70805621F3E0409
 - expected_values:
     COROLLA_CAT_T_12: 343
   response: 70805621F3E0EF6

@@ -2,10 +2,28 @@ command_id: 700.708.221019
 test_cases:
 - expected_values:
     COROLLA_INJECTION: DIRECT
+  response: 70807621019013F8000
+- expected_values:
+    COROLLA_INJECTION: DIRECT
+  response: 7080762101901418BB8
+- expected_values:
+    COROLLA_INJECTION: DIRECT
   response: '7080762101901428000'
+- expected_values:
+    COROLLA_INJECTION: DIRECT
+  response: 7080762101901FE8000
 - expected_values:
     COROLLA_INJECTION: BOTH
   response: '7080762101902178000'
+- expected_values:
+    COROLLA_INJECTION: BOTH
+  response: '7080762101902258000'
+- expected_values:
+    COROLLA_INJECTION: BOTH
+  response: 70807621019023C8BB8
+- expected_values:
+    COROLLA_INJECTION: BOTH
+  response: '7080762101902428000'
 - expected_values:
     COROLLA_INJECTION: BOTH
   response: 7080762101902B28BB8
