@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     COROLLA_ODO: 40229
   response: 7E8056128009D25
+- expected_values:
+    COROLLA_ODO: 40230
+  response: 7E8056128009D26
