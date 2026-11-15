@@ -4,5 +4,5 @@ test_cases:
     COROLLA_ODO: 40229
   response: 7E8056128009D25
 - expected_values:
-    COROLLA_ODO: 40247
-  response: 7E8056128009D37
+    COROLLA_ODO: 40277
+  response: 7E8056128009D55
