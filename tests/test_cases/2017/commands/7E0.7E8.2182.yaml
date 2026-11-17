@@ -1,8 +1,32 @@
 command_id: 7E0.7E8.2182
 test_cases:
 - expected_values:
+    COROLLA_ATF_PAN_T: 40
+    COROLLA_ATF_TQC_T: 91.03906
+  response: |-
+    7E8100861825000830A
+    7E82108000000000000
+- expected_values:
+    COROLLA_ATF_PAN_T: 40.625
+    COROLLA_ATF_TQC_T: 91
+  response: |-
+    7E81008618250A08300
+    7E82108000000000000
+- expected_values:
+    COROLLA_ATF_PAN_T: 41.875
+    COROLLA_ATF_TQC_T: 91.01953
+  response: |-
+    7E81008618251E08305
+    7E82108000000000000
+- expected_values:
     COROLLA_ATF_PAN_T: 47.5
     COROLLA_ATF_TQC_T: 90.98438
   response: |-
     7E810086182578082FC
     7E82107EF0000000000
+- expected_values:
+    COROLLA_ATF_PAN_T: 51.25
+    COROLLA_ATF_TQC_T: 91.05469
+  response: |-
+    7E8100861825B40830E
+    7E82108000000000000
