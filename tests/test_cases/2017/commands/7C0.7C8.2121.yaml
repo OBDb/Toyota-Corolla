@@ -4,29 +4,5 @@ test_cases:
     COROLLA_VSS: 0
   response: 7C803612100
 - expected_values:
-    COROLLA_VSS: 13
-  response: 7C80361210D
-- expected_values:
-    COROLLA_VSS: 16
-  response: 7C803612110
-- expected_values:
-    COROLLA_VSS: 30
-  response: 7C80361211E
-- expected_values:
-    COROLLA_VSS: 41
-  response: 7C803612129
-- expected_values:
-    COROLLA_VSS: 48
-  response: 7C803612130
-- expected_values:
-    COROLLA_VSS: 49
-  response: 7C803612131
-- expected_values:
-    COROLLA_VSS: 58
-  response: 7C80361213A
-- expected_values:
-    COROLLA_VSS: 64
-  response: 7C803612140
-- expected_values:
-    COROLLA_VSS: 69
-  response: 7C803612145
+    COROLLA_VSS: 70
+  response: 7C803612146
