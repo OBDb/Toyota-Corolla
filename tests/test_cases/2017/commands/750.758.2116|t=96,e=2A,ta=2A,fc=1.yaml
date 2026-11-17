@@ -12,3 +12,9 @@ test_cases:
   response: |-
     7582A10076116340033
     7582A21000000000000
+- expected_values:
+    COROLLA_TIRE_T_FL: 13
+    COROLLA_TIRE_T_RL: 10
+  response: |-
+    7582A10076116350032
+    7582A21000000000000
