@@ -1,5 +1,6 @@
 command_id: 747.74F.220103|fc=1
 test_cases:
 - expected_values:
-    COROLLA_ODO_V6: 46272
+    COROLLA_ODO_V6_RAW: 46272
+    COROLLA_ODO_V6_UNIT: KM
   response: 74F076201030100B4C0

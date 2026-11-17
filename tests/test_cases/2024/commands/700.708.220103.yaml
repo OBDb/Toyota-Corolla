@@ -1,8 +1,10 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    COROLLA_ENG_ODO: 29498
+    COROLLA_ENG_ODO_RAW: 29498
+    COROLLA_ENG_ODO_UNIT: MI
   response: 708076201030200733A
 - expected_values:
-    COROLLA_ENG_ODO: 29512
+    COROLLA_ENG_ODO_RAW: 29512
+    COROLLA_ENG_ODO_UNIT: MI
   response: '7080762010302007348'
