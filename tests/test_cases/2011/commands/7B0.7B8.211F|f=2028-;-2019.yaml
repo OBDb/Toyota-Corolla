@@ -1,10 +1,10 @@
-command_id: 7B0.7B8.211F
+command_id: 7B0.7B8.211F|f=2028-;-2019
 test_cases:
 - expected_values:
     COROLLA_PARKING_BRAKE_SW: 0
     COROLLA_STOP_LIGHT_SW: 0
-  response: 7B804611F0000
+  response: 7B803611F00
 - expected_values:
     COROLLA_PARKING_BRAKE_SW: 0
     COROLLA_STOP_LIGHT_SW: 1
-  response: 7B804611F8000
+  response: 7B803611F80
