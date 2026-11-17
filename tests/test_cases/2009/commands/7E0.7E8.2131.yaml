@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     COROLLA_VALVEMATIC_CURRENT: 79.82422
   response: 7E80461311FEE
+- expected_values:
+    COROLLA_VALVEMATIC_CURRENT: 99.62891
+  response: 7E804613127DA

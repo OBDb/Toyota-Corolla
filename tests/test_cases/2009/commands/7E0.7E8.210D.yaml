@@ -4,5 +4,8 @@ test_cases:
     COROLLA_VSS_21: 0
   response: 7E803610D00
 - expected_values:
+    COROLLA_VSS_21: 3
+  response: 7E803610D03
+- expected_values:
     COROLLA_VSS_21: 10
   response: 7E803610D0A
