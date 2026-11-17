@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.210F
 test_cases:
 - expected_values:
+    COROLLA_IAT_21: 25
+  response: 7E803610F41
+- expected_values:
     COROLLA_IAT_21: 26
   response: 7E803610F42
 - expected_values:

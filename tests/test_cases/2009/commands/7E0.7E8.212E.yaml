@@ -4,6 +4,9 @@ test_cases:
     COROLLA_EVAP_PURGE_DUTY_7E0: 0
   response: 7E803612E00
 - expected_values:
+    COROLLA_EVAP_PURGE_DUTY_7E0: 10.98039
+  response: 7E803612E1C
+- expected_values:
     COROLLA_EVAP_PURGE_DUTY_7E0: 27.05882
   response: 7E803612E45
 - expected_values:

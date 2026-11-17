@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2131
+test_cases:
+- expected_values:
+    COROLLA_VALVEMATIC_CURRENT: 240.26367
+  response: 7E8066131601B16D5
