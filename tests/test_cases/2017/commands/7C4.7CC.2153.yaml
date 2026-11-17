@@ -1,0 +1,17 @@
+command_id: 7C4.7CC.2153
+test_cases:
+- expected_values:
+    COROLLA_REGULATOR_P: 896.64
+  response: 7CC0361535C
+- expected_values:
+    COROLLA_REGULATOR_P: 926.06
+  response: 7CC0361535E
+- expected_values:
+    COROLLA_REGULATOR_P: 940.77
+  response: 7CC0361535F
+- expected_values:
+    COROLLA_REGULATOR_P: 955.48
+  response: 7CC03615360
+- expected_values:
+    COROLLA_REGULATOR_P: 984.9
+  response: 7CC03615362
