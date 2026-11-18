@@ -4,5 +4,5 @@ test_cases:
     COROLLA_VSS: 0
   response: 7C803612100
 - expected_values:
-    COROLLA_VSS: 74
-  response: 7C80361214A
+    COROLLA_VSS: 75
+  response: 7C80361214B
