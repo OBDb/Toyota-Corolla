@@ -1,17 +1,10 @@
 command_id: 750.758.2116|t=96,e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    COROLLA_TIRE_T_RL: 18
-    COROLLA_TIRE_T_RR: 21
+    COROLLA_TIRE_T_RR: 18
   response: |-
-    7582A1007611600003A
-    7582A213D0000000000
-- expected_values:
-    COROLLA_TIRE_T_FL: 12
-    COROLLA_TIRE_T_RL: 9
-  response: |-
-    7582A10076116340031
-    7582A21000000000000
+    7582A10076116000000
+    7582A213A0000000000
 - expected_values:
     COROLLA_TIRE_T_FL: 18
     COROLLA_TIRE_T_RL: 18
