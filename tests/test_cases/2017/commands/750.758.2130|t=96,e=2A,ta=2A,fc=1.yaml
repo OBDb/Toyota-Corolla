@@ -1,6 +1,15 @@
 command_id: 750.758.2130|t=96,e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
+    COROLLA_TIRE_P_FL: null
+    COROLLA_TIRE_P_FR: null
+    COROLLA_TIRE_P_RL: null
+    COROLLA_TIRE_P_RR: null
+    COROLLA_TIRE_P_SPARE: null
+  response: |-
+    7582A10076130000000
+    7582A21000000000000
+- expected_values:
     COROLLA_TIRE_P_RR: 2.37931
   response: |-
     7582A10076130000000
