@@ -67,6 +67,12 @@ test_cases:
     7E81008618280C081FF
     7E82107DC0000000000
 - expected_values:
+    COROLLA_ATF_PAN_T: 90.625
+    COROLLA_ATF_TQC_T: 92.14453
+  response: |-
+    7E81008618282A08425
+    7E82109540000000000
+- expected_values:
     COROLLA_ATF_PAN_T: 94.375
     COROLLA_ATF_TQC_T: 88.57812
   response: |-
