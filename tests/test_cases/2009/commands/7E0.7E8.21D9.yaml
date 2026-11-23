@@ -5,13 +5,17 @@ test_cases:
     COROLLA_ATF_T_V_21: 68
   response: 7E80761D90000046C20
 - expected_values:
+    COROLLA_ATF_T_V_14: -25
+    COROLLA_ATF_T_V_21: 71
+  response: 7E80761D90F00046FE0
+- expected_values:
     COROLLA_ATF_T_V_14: -24.75
     COROLLA_ATF_T_V_21: 42
   response: 7E80761D90F40005280
 - expected_values:
-    COROLLA_ATF_T_V_14: -23.75
-    COROLLA_ATF_T_V_21: 56
-  response: 7E80761D910400060E0
+    COROLLA_ATF_T_V_14: -23
+    COROLLA_ATF_T_V_21: 65
+  response: 7E80761D91100046900
 - expected_values:
     COROLLA_ATF_T_V_14: -20
     COROLLA_ATF_T_V_21: 28
