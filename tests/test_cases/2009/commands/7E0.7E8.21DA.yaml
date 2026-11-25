@@ -19,5 +19,8 @@ test_cases:
     COROLLA_GEAR_V3: 35
   response: 7E80461DA2304
 - expected_values:
+    COROLLA_GEAR_V3: 36
+  response: 7E80461DA2404
+- expected_values:
     COROLLA_GEAR_V3: 84
   response: 7E80461DA5406
