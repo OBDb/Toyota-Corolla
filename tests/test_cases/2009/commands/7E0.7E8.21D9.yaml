@@ -13,9 +13,9 @@ test_cases:
     COROLLA_ATF_T_V_21: 45
   response: 7E80761D90000045500
 - expected_values:
-    COROLLA_ATF_T_V_14: -31.98438
-    COROLLA_ATF_T_V_21: 83
-  response: 7E80761D90804007B20
+    COROLLA_ATF_T_V_14: -36.98438
+    COROLLA_ATF_T_V_21: 55
+  response: 7E80761D90304005F00
 - expected_values:
     COROLLA_ATF_T_V_14: -26.75
     COROLLA_ATF_T_V_21: 60
