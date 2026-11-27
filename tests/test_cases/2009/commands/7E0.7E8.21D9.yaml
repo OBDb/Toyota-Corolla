@@ -2,28 +2,28 @@ command_id: 7E0.7E8.21D9
 test_cases:
 - expected_values:
     COROLLA_ATF_T_V_14: -40
-    COROLLA_ATF_T_V_21: 38
-  response: 7E80761D90000044EC0
+    COROLLA_ATF_T_V_21: 33
+  response: 7E80761D900000449C0
 - expected_values:
     COROLLA_ATF_T_V_14: -40
-    COROLLA_ATF_T_V_21: 80
-  response: 7E80761D90000047800
+    COROLLA_ATF_T_V_21: 41
+  response: 7E80761D900000451E0
 - expected_values:
     COROLLA_ATF_T_V_14: -40
-    COROLLA_ATF_T_V_21: 81
-  response: 7E80761D900000479E0
+    COROLLA_ATF_T_V_21: 45
+  response: 7E80761D90000045500
 - expected_values:
     COROLLA_ATF_T_V_14: -31.98438
     COROLLA_ATF_T_V_21: 83
   response: 7E80761D90804007B20
 - expected_values:
     COROLLA_ATF_T_V_14: -26.75
-    COROLLA_ATF_T_V_21: 65
-  response: 7E80761D90D40006900
+    COROLLA_ATF_T_V_21: 60
+  response: 7E80761D90D40006400
 - expected_values:
-    COROLLA_ATF_T_V_14: -20.75
-    COROLLA_ATF_T_V_21: 21
-  response: 7E80761D91340003DE0
+    COROLLA_ATF_T_V_14: -15
+    COROLLA_ATF_T_V_21: 20
+  response: 7E80761D91900043CA0
 - expected_values:
     COROLLA_ATF_T_V_14: 19
     COROLLA_ATF_T_V_21: 89
